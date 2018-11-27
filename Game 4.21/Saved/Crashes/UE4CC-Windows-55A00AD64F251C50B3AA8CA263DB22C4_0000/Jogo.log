@@ -1,0 +1,635 @@
+﻿Log file open, 11/15/18 20:38:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Jogo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.169961
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.290s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Gui.Master" -epicuserid=7f5f6205bcc04e50b2530eb0fc3f3f7d -epiclocale=pt-BR
+LogInit: Base Directory: D:/Guilherme Priosti/Documents/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.15-22.38.23:921][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.15-22.38.23:921][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.15-22.38.23:937][  0]LogHAL: Display: Platform has ~ 16 GB [17073397760 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.15-22.38.23:937][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.15-22.38.23:937][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.15-22.38.23:938][  0]LogInit: Computer: GUIMASTER
+[2018.11.15-22.38.23:938][  0]LogInit: User: GuilhermePriosti
+[2018.11.15-22.38.23:938][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.11.15-22.38.23:938][  0]LogInit: High frequency timer resolution =2.835936 MHz
+[2018.11.15-22.38.23:938][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.15-22.38.23:938][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.15-22.38.23:938][  0]LogMemory: Process Physical Memory: 99.43 MB used, 99.43 MB peak
+[2018.11.15-22.38.23:938][  0]LogMemory: Process Virtual Memory: 82.71 MB used, 82.71 MB peak
+[2018.11.15-22.38.23:938][  0]LogMemory: Physical Memory: 5854.13 MB used,  10428.33 MB free, 16282.46 MB total
+[2018.11.15-22.38.23:938][  0]LogMemory: Virtual Memory: 4605.43 MB used,  10428.33 MB free, 134217728.00 MB total
+[2018.11.15-22.38.23:972][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.11.15-22.38.23:972][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.11.15-22.38.24:448][  0]LogStreaming: Display: Took  0.476s to InitEngineTextLocalization.
+[2018.11.15-22.38.24:448][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.15-22.38.24:498][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.15-22.38.24:499][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.15-22.38.25:037][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.15-22.38.25:037][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.15-22.38.25:110][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2018.11.15-22.38.25:110][  0]LogD3D11RHI:       4055/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.15-22.38.25:121][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.11.15-22.38.25:121][  0]LogD3D11RHI:       128/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.15-22.38.25:124][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.15-22.38.25:124][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.15-22.38.25:124][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.15-22.38.25:156][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.15-22.38.25:156][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2018.11.15-22.38.25:156][  0]LogWindows: EnumDisplayDevices:
+[2018.11.15-22.38.25:156][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.11.15-22.38.25:156][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.11.15-22.38.25:157][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.11.15-22.38.25:157][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.15-22.38.25:157][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2018.11.15-22.38.25:157][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.15-22.38.25:157][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.15-22.38.25:157][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2018.11.15-22.38.25:207][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.15-22.38.25:227][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.15-22.38.25:228][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/Intermediate/Shaders/WorkingDirectory/16848/).
+[2018.11.15-22.38.25:228][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Guilherme Priosti/AppData/Local/Temp/UnrealShaderWorkingDir/8F56CF034F7189DEFF5842B05D0E4C55/'.
+[2018.11.15-22.38.25:710][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.15-22.38.25:725][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.15-22.38.25:740][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.15-22.38.25:754][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.15-22.38.25:768][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.15-22.38.25:785][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.15-22.38.25:799][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.15-22.38.25:813][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.15-22.38.25:819][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-22.38.25:905][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.15-22.38.25:972][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.15-22.38.25:972][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.15-22.38.26:002][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.15-22.38.26:002][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.15-22.38.26:016][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.15-22.38.26:029][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.15-22.38.26:044][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.15-22.38.26:059][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.15-22.38.26:072][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.15-22.38.26:072][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.15-22.38.26:147][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.15-22.38.26:147][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.15-22.38.26:147][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.15-22.38.27:076][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.15-22.38.27:154][  0]LogDerivedDataCache: Loaded boot cache 0.08s 86MB C:/Users/Guilherme Priosti/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.15-22.38.27:155][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Guilherme Priosti/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.15-22.38.27:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.15-22.38.27:155][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.15-22.38.27:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.15-22.38.27:155][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.15-22.38.27:169][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.15-22.38.27:183][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Guilherme Priosti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.15-22.38.27:183][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.15-22.38.27:183][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.15-22.38.27:210][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.15-22.38.27:211][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.15-22.38.27:212][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.15-22.38.27:338][  0]LogAssetRegistry: FAssetRegistry took 0.0282 seconds to start up
+[2018.11.15-22.38.27:892][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.15-22.38.28:072][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.15-22.38.28:078][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.15-22.38.28:078][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.15-22.38.28:078][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.15-22.38.28:078][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.15-22.38.28:104][  0]LogNetVersion: Jogo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2335468435)
+[2018.11.15-22.38.28:794][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.114053 seconds
+[2018.11.15-22.38.28:804][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.15-22.38.28:804][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.15-22.38.28:804][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.15-22.38.30:471][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.15-22.38.30:484][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.15-22.38.30:659][  0]SourceControl: Source control is disabled
+[2018.11.15-22.38.30:659][  0]SourceControl: Source control is disabled
+[2018.11.15-22.38.30:662][  0]SourceControl: Source control is disabled
+[2018.11.15-22.38.30:664][  0]SourceControl: Source control is disabled
+[2018.11.15-22.38.30:873][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.15-22.38.30:943][  0]LogOcInput: OculusInput pre-init called
+[2018.11.15-22.38.31:014][  0]LogEngine: Initializing Engine...
+[2018.11.15-22.38.31:016][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.15-22.38.31:017][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.15-22.38.31:017][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.15-22.38.31:017][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.15-22.38.31:017][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.15-22.38.31:302][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.15-22.38.31:323][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.15-22.38.31:342][  0]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-22.38.31:600][  0]LogInit: FAudioDevice initialized.
+[2018.11.15-22.38.31:600][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.15-22.38.31:703][  0]LogDerivedDataCache: Saved boot cache 0.10s 86MB C:/Users/Guilherme Priosti/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.15-22.38.31:708][  0]LogInit: Texture streaming: Enabled
+[2018.11.15-22.38.31:730][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.15-22.38.31:744][  0]LogInit: Transaction tracking system initialized
+[2018.11.15-22.38.31:775][  0]BlueprintLog: New page: Editor Load
+[2018.11.15-22.38.31:873][  0]LocalizationService: Localization service is disabled
+[2018.11.15-22.38.32:204][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.15-22.38.32:204][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.15-22.38.32:204][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.15-22.38.32:204][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.15-22.38.32:204][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.15-22.38.32:204][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.15-22.38.32:204][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.15-22.38.32:436][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/Content/' took 0.02s
+[2018.11.15-22.38.32:436][  0]SourceControl: Source control is disabled
+[2018.11.15-22.38.32:436][  0]Cmd: MAP LOAD FILE="C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.15-22.38.32:437][  0]LightingResults: New page: Lighting Build
+[2018.11.15-22.38.32:442][  0]MapCheck: New page: Map Check
+[2018.11.15-22.38.32:442][  0]LightingResults: New page: Lighting Build
+[2018.11.15-22.38.32:670][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.11.15-22.38.32:683][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.15-22.38.32:709][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.15-22.38.32:843][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 132.647ms to complete.
+[2018.11.15-22.38.32:843][  0]LogFileHelpers: Loading map 'StartupMap' took 0.406
+[2018.11.15-22.38.32:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-22.38.32:960][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-22.38.32:974][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-22.38.32:984][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-22.38.32:994][  0]LogCollectionManager: Loaded 0 collections in 0.001995 seconds
+[2018.11.15-22.38.33:042][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/Saved/Collections/' took 0.01s
+[2018.11.15-22.38.33:042][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/Content/Developers/GuilhermePriosti/Collections/' took 0.01s
+[2018.11.15-22.38.33:042][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/Content/Collections/' took 0.01s
+[2018.11.15-22.38.33:042][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.15-22.38.33:056][  0]LogContentBrowser: Native class hierarchy populated in 0.0135 seconds. Added 2572 classes and 603 folders.
+[2018.11.15-22.38.33:064][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.15-22.38.33:199][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.15-22.38.33:204][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.15-22.38.33:271][  0]LogSlate: Took 0.000697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.15-22.38.33:274][  0]LogSlate: Took 0.000500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.15-22.38.33:284][  0]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.15-22.38.33:374][  0]LogRenderer: Reallocating scene render targets to support 924x388 Format 26 NumSamples 1 (Frame:1).
+[2018.11.15-22.38.33:498][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.15-22.38.33:498][  0]LogLoad: (Engine Initialization) Total time: 13.14 seconds
+[2018.11.15-22.38.33:498][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.15-22.38.33:517][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-22.38.33:540][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.15-22.38.33:565][  0]LogSlate: Took 0.000390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.15-22.38.33:683][  2]LogAssetRegistry: Asset discovery search completed in 6.3676 seconds
+[2018.11.15-22.38.33:686][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.15-22.38.33:686][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2018.11.15-22.38.42:887][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.38.48:649][892]LogAIModule: Creating AISystem for world Level1
+[2018.11.15-22.38.49:414][929]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.15-22.38.49:425][929]LogAssetEditorManager: Opening Asset editor for World /Game/Level1.Level1
+[2018.11.15-22.38.49:447][929]Cmd: MAP LOAD FILE="C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/Content/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.15-22.38.49:448][929]LightingResults: New page: Lighting Build
+[2018.11.15-22.38.49:448][929]LoadErrors: New page: Loading map: Level1.umap
+[2018.11.15-22.38.49:449][929]MapCheck: New page: Map Check
+[2018.11.15-22.38.49:449][929]LightingResults: New page: Lighting Build
+[2018.11.15-22.38.49:548][929]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.15-22.38.49:601][929]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.15-22.38.49:749][929]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 149.054ms to complete.
+[2018.11.15-22.38.49:751][929]LogFileHelpers: Loading map 'Level1' took 0.304
+[2018.11.15-22.39.03:254][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.39.03:321][740]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-22.39.03:332][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-22.39.03:344][740]PIE: New page: PIE session: Level1 (Nov 15, 2018, 6:39:03 PM)
+[2018.11.15-22.39.03:344][740]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2018.11.15-22.39.03:381][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036944s)
+[2018.11.15-22.39.03:382][740]LogAIModule: Creating AISystem for world Level1
+[2018.11.15-22.39.03:384][740]LogPlayLevel: PIE: World Init took: (0.002196s)
+[2018.11.15-22.39.03:384][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.039316s)
+[2018.11.15-22.39.03:422][740]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-22.39.03:520][740]LogInit: FAudioDevice initialized.
+[2018.11.15-22.39.03:565][740]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.15-22.39.03:565][740]LogLoad: Game class is 'GameModeBase'
+[2018.11.15-22.39.03:570][740]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2018.11.15-20.39.03
+[2018.11.15-22.39.03:571][740]LogWorld: Bringing up level for play took: 0.004516
+[2018.11.15-22.39.03:589][740]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.11.15-22.39.03:590][740]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.591
+[2018.11.15-22.39.05:769][863]LogRenderer: Reallocating scene render targets to support 924x404 Format 26 NumSamples 1 (Frame:119).
+[2018.11.15-22.39.05:811][864]LogRenderer: Reallocating scene render targets to support 924x416 Format 26 NumSamples 1 (Frame:120).
+[2018.11.15-22.39.05:852][865]LogRenderer: Reallocating scene render targets to support 924x436 Format 26 NumSamples 1 (Frame:121).
+[2018.11.15-22.39.05:888][866]LogRenderer: Reallocating scene render targets to support 924x448 Format 26 NumSamples 1 (Frame:122).
+[2018.11.15-22.39.05:924][867]LogRenderer: Reallocating scene render targets to support 924x460 Format 26 NumSamples 1 (Frame:123).
+[2018.11.15-22.39.05:962][868]LogRenderer: Reallocating scene render targets to support 924x472 Format 26 NumSamples 1 (Frame:124).
+[2018.11.15-22.39.05:997][869]LogRenderer: Reallocating scene render targets to support 924x488 Format 26 NumSamples 1 (Frame:125).
+[2018.11.15-22.39.06:035][870]LogRenderer: Reallocating scene render targets to support 924x504 Format 26 NumSamples 1 (Frame:126).
+[2018.11.15-22.39.06:074][871]LogRenderer: Reallocating scene render targets to support 924x512 Format 26 NumSamples 1 (Frame:127).
+[2018.11.15-22.39.06:114][872]LogRenderer: Reallocating scene render targets to support 924x516 Format 26 NumSamples 1 (Frame:128).
+[2018.11.15-22.39.06:154][873]LogRenderer: Reallocating scene render targets to support 924x520 Format 26 NumSamples 1 (Frame:129).
+[2018.11.15-22.39.06:192][874]LogRenderer: Reallocating scene render targets to support 924x524 Format 26 NumSamples 1 (Frame:130).
+[2018.11.15-22.39.08:451][  8]LogRenderer: Reallocating scene render targets to support 928x524 Format 26 NumSamples 1 (Frame:258).
+[2018.11.15-22.39.08:489][  9]LogRenderer: Reallocating scene render targets to support 976x524 Format 26 NumSamples 1 (Frame:259).
+[2018.11.15-22.39.08:550][ 10]LogRenderer: Reallocating scene render targets to support 1036x524 Format 26 NumSamples 1 (Frame:260).
+[2018.11.15-22.39.08:603][ 11]LogRenderer: Reallocating scene render targets to support 1108x524 Format 26 NumSamples 1 (Frame:261).
+[2018.11.15-22.39.08:650][ 12]LogRenderer: Reallocating scene render targets to support 1120x524 Format 26 NumSamples 1 (Frame:262).
+[2018.11.15-22.39.08:769][ 17]LogRenderer: Reallocating scene render targets to support 1124x524 Format 26 NumSamples 1 (Frame:264).
+[2018.11.15-22.39.10:143][ 93]LogRenderer: Reallocating scene render targets to support 1204x524 Format 26 NumSamples 1 (Frame:327).
+[2018.11.15-22.39.10:211][ 95]LogRenderer: Reallocating scene render targets to support 1308x524 Format 26 NumSamples 1 (Frame:328).
+[2018.11.15-22.39.10:269][ 96]LogRenderer: Reallocating scene render targets to support 1312x524 Format 26 NumSamples 1 (Frame:329).
+[2018.11.15-22.39.10:346][ 97]LogRenderer: Reallocating scene render targets to support 1320x524 Format 26 NumSamples 1 (Frame:330).
+[2018.11.15-22.39.10:405][ 98]LogRenderer: Reallocating scene render targets to support 1340x524 Format 26 NumSamples 1 (Frame:331).
+[2018.11.15-22.39.10:451][ 99]LogRenderer: Reallocating scene render targets to support 1352x524 Format 26 NumSamples 1 (Frame:332).
+[2018.11.15-22.39.10:497][100]LogRenderer: Reallocating scene render targets to support 1364x524 Format 26 NumSamples 1 (Frame:333).
+[2018.11.15-22.39.10:692][108]LogRenderer: Reallocating scene render targets to support 1368x524 Format 26 NumSamples 1 (Frame:336).
+[2018.11.15-22.39.10:734][109]LogRenderer: Reallocating scene render targets to support 1376x524 Format 26 NumSamples 1 (Frame:337).
+[2018.11.15-22.39.10:778][110]LogRenderer: Reallocating scene render targets to support 1396x524 Format 26 NumSamples 1 (Frame:338).
+[2018.11.15-22.39.10:824][111]LogRenderer: Reallocating scene render targets to support 1400x524 Format 26 NumSamples 1 (Frame:339).
+[2018.11.15-22.39.42:055][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-22.39.42:141][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-22.39.42:165][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-22.39.42:178][425]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.11.15-22.39.42:903][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.39.43:190][477]LogAIModule: Creating AISystem for world Level2
+[2018.11.15-22.39.43:225][477]LogAssetEditorManager: Opening Asset editor for World /Game/Level2.Level2
+[2018.11.15-22.39.43:245][477]Cmd: MAP LOAD FILE="C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/Content/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.15-22.39.43:245][477]LightingResults: New page: Lighting Build
+[2018.11.15-22.39.43:245][477]LoadErrors: New page: Loading map: Level2.umap
+[2018.11.15-22.39.43:247][477]MapCheck: New page: Map Check
+[2018.11.15-22.39.43:247][477]LightingResults: New page: Lighting Build
+[2018.11.15-22.39.43:354][477]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.15-22.39.43:391][477]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.15-22.39.43:506][477]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.611ms to complete.
+[2018.11.15-22.39.43:508][477]LogFileHelpers: Loading map 'Level2' took 0.264
+[2018.11.15-22.39.48:492][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.39.48:575][776]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-22.39.48:587][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-22.39.48:587][776]PIE: New page: PIE session: Level2 (Nov 15, 2018, 6:39:48 PM)
+[2018.11.15-22.39.48:587][776]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level2
+[2018.11.15-22.39.48:619][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032244s)
+[2018.11.15-22.39.48:620][776]LogAIModule: Creating AISystem for world Level2
+[2018.11.15-22.39.48:620][776]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2018.11.15-22.39.48:620][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level2.Level2 to /Game/UEDPIE_0_Level2.Level2 (0.033115s)
+[2018.11.15-22.39.48:643][776]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-22.39.48:727][776]LogInit: FAudioDevice initialized.
+[2018.11.15-22.39.48:760][776]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.15-22.39.48:760][776]LogLoad: Game class is 'GameModeBase'
+[2018.11.15-22.39.48:767][776]LogWorld: Bringing World /Game/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2018.11.15-20.39.48
+[2018.11.15-22.39.48:768][776]LogWorld: Bringing up level for play took: 0.006892
+[2018.11.15-22.39.48:781][776]PIE: Play in editor start time for /Game/UEDPIE_0_Level2 -0.217
+[2018.11.15-22.40.35:180][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-22.40.35:243][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-22.40.35:270][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-22.40.35:323][775]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.11.15-22.40.40:171][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.40.58:063][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.41.05:411][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-22.42.00:989][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.44.32:602][422]Cmd: DELETE
+[2018.11.15-22.44.32:602][422]Cmd: ACTOR DELETE
+[2018.11.15-22.44.32:613][422]LogEditorActor: Deleted Actor: Brush
+[2018.11.15-22.44.32:682][422]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2018.11.15-22.44.34:659][532]Cmd: DELETE
+[2018.11.15-22.44.34:659][532]Cmd: ACTOR DELETE
+[2018.11.15-22.44.34:672][532]LogEditorActor: Deleted Actor: Brush
+[2018.11.15-22.44.34:736][532]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2018.11.15-22.44.38:534][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.44.41:184][906]LogAIModule: Creating AISystem for world Level1
+[2018.11.15-22.44.42:523][906]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.15-22.44.45:285][974]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.15-22.44.45:301][974]LightingResults: New page: Lighting Build
+[2018.11.15-22.44.45:312][974]MapCheck: New page: Map Check
+[2018.11.15-22.44.45:312][974]LightingResults: New page: Lighting Build
+[2018.11.15-22.44.45:336][974]LogAIModule: Creating AISystem for world Untitled
+[2018.11.15-22.44.45:416][974]LoadErrors: New page: New Map
+[2018.11.15-22.44.45:661][974]LogAIModule: Creating AISystem for world Level2
+[2018.11.15-22.44.55:762][275]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.15-22.45.35:137][ 27]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.11.15-22.45.40:154][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.46.17:637][792]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.11.15-22.46.18:703][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-22.46.55:280][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.47.04:474][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.47.07:722][662]Cmd: TRANSACTION UNDO
+[2018.11.15-22.47.07:722][662]LogEditorTransaction: Undo Edit Z
+[2018.11.15-22.47.16:316][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.47.19:726][360]LogActorFactory: Actor Factory created SM_Door
+[2018.11.15-22.47.20:153][385]LogActorFactory: Actor Factory created SM_Door
+[2018.11.15-22.47.25:784][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.47.33:438][168]Cmd: TRANSACTION UNDO
+[2018.11.15-22.47.33:438][168]LogEditorTransaction: Undo Move Actors
+[2018.11.15-22.47.34:976][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.11.15-22.47.46:924][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.48.01:324][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.48.25:234][994]Cmd: TRANSACTION UNDO
+[2018.11.15-22.48.25:234][994]LogEditorTransaction: Undo Create Actors
+[2018.11.15-22.48.25:248][994]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Temp/Untitled_1.Untitled:PersistentLevel.ModelComponent_83, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.11.15-22.48.25:248][994]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Temp/Untitled_1.Untitled:PersistentLevel.ModelComponent_83, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.11.15-22.48.25:248][994]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Temp/Untitled_1.Untitled:PersistentLevel.ModelComponent_83, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.11.15-22.48.25:248][994]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Temp/Untitled_1.Untitled:PersistentLevel.ModelComponent_83, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.11.15-22.48.25:248][994]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Temp/Untitled_1.Untitled:PersistentLevel.ModelComponent_83, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.11.15-22.48.25:248][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Temp/Untitled_1.Untitled:PersistentLevel.ModelComponent_83' invalid (48 verts, 0 indices).
+[2018.11.15-22.48.25:248][994]LogPhysics: Warning: Attempt to build physics data for /Temp/Untitled_1.Untitled:PersistentLevel.ModelComponent_83.BodySetup_0 when we are unable to.
+[2018.11.15-22.48.37:370][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.48.45:598][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.48.47:450][640]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.11.15-22.48.49:225][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-22.48.59:520][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.11.15-22.49.19:172][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.49.27:100][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.49.41:237][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.49.49:674][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.49.58:571][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.11.15-22.50.00:794][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.11.15-22.50.01:934][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.11.15-22.50.02:342][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.11.15-22.50.08:879][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.50.27:992][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.50.48:880][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.51.00:113][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.51.14:937][325]Cmd: EDIT COPY
+[2018.11.15-22.51.15:293][353]Cmd: EDIT PASTE
+[2018.11.15-22.51.29:088][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.51.47:985][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.52.09:883][683]Cmd: TRANSACTION UNDO
+[2018.11.15-22.52.09:883][683]LogEditorTransaction: Undo Move Actors
+[2018.11.15-22.52.10:702][740]Cmd: EDIT COPY
+[2018.11.15-22.52.11:131][774]Cmd: EDIT PASTE
+[2018.11.15-22.52.15:096][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.52.26:926][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.52.44:645][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.53.06:761][237]Cmd: EDIT COPY
+[2018.11.15-22.53.07:132][267]Cmd: EDIT PASTE
+[2018.11.15-22.53.19:318][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.53.35:321][500]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door)
+[2018.11.15-22.53.36:183][567]Cmd: EDIT COPY
+[2018.11.15-22.53.38:606][756]Cmd: EDIT PASTE
+[2018.11.15-22.54.11:506][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.54.27:796][639]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door2)
+[2018.11.15-22.54.28:588][699]Cmd: EDIT COPY
+[2018.11.15-22.54.29:049][735]Cmd: EDIT PASTE
+[2018.11.15-22.54.47:207][142]Cmd: EDIT COPY
+[2018.11.15-22.54.47:514][167]Cmd: EDIT PASTE
+[2018.11.15-22.54.53:090][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.55.07:725][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.55.35:300][982]Cmd: EDIT COPY
+[2018.11.15-22.55.39:841][347]Cmd: TRANSACTION UNDO
+[2018.11.15-22.55.39:841][347]LogEditorTransaction: Undo Move Actors
+[2018.11.15-22.55.41:596][470]Cmd: EDIT COPY
+[2018.11.15-22.55.42:014][504]Cmd: EDIT PASTE
+[2018.11.15-22.55.51:501][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.56.08:161][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.56.51:282][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.57.04:548][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.57.20:553][458]LogEditorViewport: Clicking Background
+[2018.11.15-22.57.29:848][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.11.15-22.57.32:760][430]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door2)
+[2018.11.15-22.57.33:677][501]Cmd: EDIT COPY
+[2018.11.15-22.57.34:097][535]Cmd: EDIT PASTE
+[2018.11.15-22.57.51:753][879]Cmd: EDIT COPY
+[2018.11.15-22.57.52:075][905]Cmd: EDIT PASTE
+[2018.11.15-22.57.54:849][123]Cmd: TRANSACTION UNDO
+[2018.11.15-22.57.54:849][123]LogEditorTransaction: Undo Move Actors
+[2018.11.15-22.57.54:875][123]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.11.15-22.57.54:888][123]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2018.11.15-22.57.54:891][123]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.11.15-22.58.11:466][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.58.22:170][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.58.34:704][285]Cmd: SELECT NONE
+[2018.11.15-22.59.03:930][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-22.59.21:884][ 41]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door3)
+[2018.11.15-22.59.22:641][ 99]Cmd: EDIT COPY
+[2018.11.15-22.59.22:992][127]Cmd: EDIT PASTE
+[2018.11.15-23.00.41:976][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.00.54:656][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.00.59:532][712]Cmd: EDIT COPY
+[2018.11.15-23.00.59:924][745]Cmd: EDIT PASTE
+[2018.11.15-23.01.02:848][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.01.09:418][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.01.15:642][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.01.23:731][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.01.46:918][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.01.48:006][610]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.11.15-23.01.53:620][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.02.07:782][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-23.02.20:137][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.02.35:134][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.03.10:066][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.03.36:401][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.03.47:914][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.03.54:433][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.04.22:033][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.04.44:912][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.05.01:846][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.05.02:729][110]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.11.15-23.05.08:689][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.05.25:617][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.05.34:715][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.05.42:790][293]Cmd: EDIT COPY
+[2018.11.15-23.05.43:142][320]Cmd: EDIT PASTE
+[2018.11.15-23.06.11:288][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.09.30:301][478]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.15-23.09.32:301][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-23.09.35:521][661]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2018.11.15-23.09.39:108][661]LogSlate: Window 'Message' being destroyed
+[2018.11.15-23.09.39:114][661]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.15-23.09.39:126][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-23.09.41:388][661]LogSlate: Window 'Message' being destroyed
+[2018.11.15-23.09.41:403][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-23.09.44:756][661]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.15-23.09.44:778][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-23.09.44:837][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.11.15-23.09.45:325][662]LogSavePackage: Moving 'C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/Saved/Untitled_1_Auto18ADD6B7A4B3A1B8611D3C2BAC63F2B30.tmp' to 'C:/Users/Guilherme Priosti/Desktop/ESPM/4ºSEMESTRE/Unreal/Jogo/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.11.15-23.09.45:338][662]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.532
+[2018.11.15-23.09.45:338][662]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.532
+[2018.11.15-23.10.00:511][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-23.10.10:636][583]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2018.11.15-23.10.13:574][583]LogSlate: Window 'Message' being destroyed
+[2018.11.15-23.10.13:580][583]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.15-23.10.23:458][583]LogSlate: Window 'Message' being destroyed
+[2018.11.15-23.10.26:548][583]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.086 s
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: 
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: Ensure condition failed: FPackageName::TryConvertFilenameToLongPackageName(DefaultLocation / FinalPackageFilename, DefaultPackagePath) [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\FileHelpers.cpp] [Line: 2763]
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: 
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: Stack: 
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff91c1471f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff91be80c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff91be9b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff9095aa25a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff9095a9441 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff9095c0878 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff9095d8bc8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff905aa9087 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff905a47ed7 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff918b529fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff918c54fce UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff918c5d660 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff918c31e2f UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff918d19c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff918c5f375 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff918b094c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff918ba1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff918b87c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff918b7b25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff94c50d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff94c500270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff94c50f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff94c4fc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff968986d41 USER32.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff968986713 USER32.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff94c510646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff6cd8854e5 UE4Editor.exe!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff6cd895b3c UE4Editor.exe!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff6cd895bba UE4Editor.exe!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff6cd8a3dac UE4Editor.exe!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff6cd8a5aaa UE4Editor.exe!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff966a23034 KERNEL32.DLL!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: [Callstack] 0x00007ff968bd1471 ntdll.dll!UnknownFunction []
+[2018.11.15-23.10.26:548][583]LogOutputDevice: Error: 
+[2018.11.15-23.10.26:573][583]LogStats:                SubmitErrorReport -  0.020 s

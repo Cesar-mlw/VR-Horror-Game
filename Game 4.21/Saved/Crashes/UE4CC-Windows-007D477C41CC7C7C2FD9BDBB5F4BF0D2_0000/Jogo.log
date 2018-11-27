@@ -1,0 +1,1157 @@
+﻿Log file open, 11/25/18 22:41:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Jogo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.196704
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.869s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.030s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.26-00.42.00:205][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.26-00.42.00:205][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.26-00.42.00:303][  0]LogHAL: Display: Platform has ~ 8 GB [8461004800 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.26-00.42.00:304][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.26-00.42.00:304][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.26-00.42.00:312][  0]LogInit: Computer: JTNT40
+[2018.11.26-00.42.00:312][  0]LogInit: User: 11710845
+[2018.11.26-00.42.00:312][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.11.26-00.42.00:312][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2018.11.26-00.42.00:314][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.26-00.42.00:314][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.26-00.42.00:315][  0]LogMemory: Process Physical Memory: 100.36 MB used, 100.36 MB peak
+[2018.11.26-00.42.00:315][  0]LogMemory: Process Virtual Memory: 84.13 MB used, 84.13 MB peak
+[2018.11.26-00.42.00:315][  0]LogMemory: Physical Memory: 4242.97 MB used,  3826.07 MB free, 8069.04 MB total
+[2018.11.26-00.42.00:315][  0]LogMemory: Virtual Memory: 4616.30 MB used,  3826.07 MB free, 134217728.00 MB total
+[2018.11.26-00.42.00:372][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.11.26-00.42.00:372][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.11.26-00.42.01:447][  0]LogStreaming: Display: Took  1.075s to InitEngineTextLocalization.
+[2018.11.26-00.42.01:448][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.26-00.42.01:530][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.26-00.42.01:530][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.26-00.42.02:600][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.26-00.42.02:600][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.26-00.42.02:652][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.11.26-00.42.02:652][  0]LogD3D11RHI:       128/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.11.26-00.42.02:654][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.26-00.42.02:654][  0]LogD3D11RHI:       0/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.26-00.42.02:654][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.26-00.42.02:659][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.26-00.42.02:659][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.26-00.42.02:659][  0]LogWindows: EnumDisplayDevices:
+[2018.11.26-00.42.02:659][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.11.26-00.42.02:659][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.11.26-00.42.02:660][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.11.26-00.42.02:660][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.11.26-00.42.02:660][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.11.26-00.42.02:660][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2018.11.26-00.42.02:660][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2018.11.26-00.42.02:660][  0]LogRHI: Texture pool is 1501 MB (70% of 2145 MB)
+[2018.11.26-00.42.02:702][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.26-00.42.02:708][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2018.11.26-00.42.02:709][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Intermediate/Shaders/WorkingDirectory/2732/).
+[2018.11.26-00.42.02:709][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/11710845/AppData/Local/Temp/UnrealShaderWorkingDir/14682B4F46AB60372597F8995F20E5C1/'.
+[2018.11.26-00.42.03:226][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.26-00.42.03:241][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.26-00.42.03:256][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.26-00.42.03:271][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.26-00.42.03:288][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.26-00.42.03:303][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.26-00.42.03:318][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.26-00.42.03:333][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.26-00.42.03:340][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.26-00.42.03:429][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-00.42.03:431][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.26-00.42.03:512][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.26-00.42.03:512][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.26-00.42.03:538][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.26-00.42.03:538][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.26-00.42.03:551][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.26-00.42.03:565][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.26-00.42.03:579][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.26-00.42.03:595][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.26-00.42.03:605][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.26-00.42.03:605][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.26-00.42.03:672][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.26-00.42.03:672][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.26-00.42.03:672][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.26-00.42.05:539][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.26-00.42.05:602][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/11710845/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.26-00.42.05:602][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/11710845/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.26-00.42.05:602][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.26-00.42.05:602][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.26-00.42.05:602][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.26-00.42.05:602][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.26-00.42.05:619][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.26-00.42.05:634][  0]LogDerivedDataCache: Using Local data cache path C:/Users/11710845/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.26-00.42.05:634][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.26-00.42.05:634][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.26-00.42.05:729][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.26-00.42.05:731][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.26-00.42.05:735][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.26-00.42.05:978][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.11.26-00.42.06:338][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.26-00.42.06:927][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.26-00.42.06:932][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.26-00.42.06:933][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.26-00.42.06:933][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.26-00.42.06:933][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.26-00.42.06:951][  0]LogNetVersion: Jogo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2335468435)
+[2018.11.26-00.42.08:045][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.081050 seconds
+[2018.11.26-00.42.08:051][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.26-00.42.08:051][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.26-00.42.08:051][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.26-00.42.11:143][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.26-00.42.11:157][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.26-00.42.11:399][  0]SourceControl: Source control is disabled
+[2018.11.26-00.42.11:399][  0]SourceControl: Source control is disabled
+[2018.11.26-00.42.11:401][  0]SourceControl: Source control is disabled
+[2018.11.26-00.42.11:402][  0]SourceControl: Source control is disabled
+[2018.11.26-00.42.11:598][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.26-00.42.11:664][  0]LogOcInput: OculusInput pre-init called
+[2018.11.26-00.42.11:829][  0]LogEngine: Initializing Engine...
+[2018.11.26-00.42.11:831][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.26-00.42.11:832][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.26-00.42.11:832][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.26-00.42.11:832][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.26-00.42.11:833][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.26-00.42.12:634][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.26-00.42.12:649][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.26-00.42.12:852][  0]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-00.42.12:869][  0]LogInit: FAudioDevice initialized.
+[2018.11.26-00.42.12:869][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.26-00.42.13:067][  0]LogDerivedDataCache: Saved boot cache 0.20s 86MB C:/Users/11710845/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.26-00.42.13:076][  0]LogInit: Texture streaming: Enabled
+[2018.11.26-00.42.13:096][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.26-00.42.13:112][  0]LogInit: Transaction tracking system initialized
+[2018.11.26-00.42.13:137][  0]BlueprintLog: New page: Editor Load
+[2018.11.26-00.42.13:229][  0]LocalizationService: Localization service is disabled
+[2018.11.26-00.42.13:642][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.26-00.42.13:642][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.26-00.42.13:642][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.26-00.42.13:642][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.26-00.42.13:642][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.26-00.42.13:642][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.26-00.42.13:642][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.26-00.42.13:844][  0]LogFileCache: Scanning file cache for directory 'C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/' took 0.02s
+[2018.11.26-00.42.13:844][  0]SourceControl: Source control is disabled
+[2018.11.26-00.42.13:845][  0]Cmd: MAP LOAD FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-00.42.13:901][  0]LightingResults: New page: Lighting Build
+[2018.11.26-00.42.13:904][  0]MapCheck: New page: Map Check
+[2018.11.26-00.42.13:904][  0]LightingResults: New page: Lighting Build
+[2018.11.26-00.42.14:395][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.11.26-00.42.14:404][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-00.42.14:426][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-00.42.14:514][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 87.508ms to complete.
+[2018.11.26-00.42.14:514][  0]LogFileHelpers: Loading map 'StartupMap' took 0.669
+[2018.11.26-00.42.14:642][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-00.42.14:653][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-00.42.14:662][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-00.42.14:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-00.42.14:681][  0]LogCollectionManager: Loaded 0 collections in 0.002380 seconds
+[2018.11.26-00.42.14:729][  0]LogFileCache: Scanning file cache for directory 'C:/Users/11710845/Documents/Unreal Projects/Jogo/Saved/Collections/' took 0.01s
+[2018.11.26-00.42.14:729][  0]LogFileCache: Scanning file cache for directory 'C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Developers/11710845/Collections/' took 0.01s
+[2018.11.26-00.42.14:729][  0]LogFileCache: Scanning file cache for directory 'C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Collections/' took 0.01s
+[2018.11.26-00.42.14:729][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.26-00.42.14:742][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2572 classes and 603 folders.
+[2018.11.26-00.42.14:750][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.26-00.42.14:950][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.26-00.42.14:955][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.26-00.42.14:975][  0]LogSlate: Took 0.002125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.26-00.42.14:980][  0]LogSlate: Took 0.002242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.26-00.42.14:992][  0]LogSlate: Took 0.001872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.26-00.42.15:109][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 26 NumSamples 1 (Frame:1).
+[2018.11.26-00.42.15:352][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.26-00.42.15:353][  0]LogLoad: (Engine Initialization) Total time: 20.13 seconds
+[2018.11.26-00.42.15:353][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.26-00.42.15:372][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.26-00.42.15:393][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.26-00.42.15:430][  1]LogAssetRegistry: Asset discovery search completed in 9.4735 seconds
+[2018.11.26-00.42.15:432][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.26-00.42.15:432][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2018.11.26-00.42.19:425][147]LogSlate: Took 0.001937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.26-00.42.56:530][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-00.42.56:648][674]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.26-00.43.02:903][674]LogAIModule: Creating AISystem for world Level1
+[2018.11.26-00.43.02:951][674]LogAssetEditorManager: Opening Asset editor for World /Game/Level/Level1.Level1
+[2018.11.26-00.43.02:974][674]Cmd: MAP LOAD FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Level/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-00.43.02:975][674]LightingResults: New page: Lighting Build
+[2018.11.26-00.43.02:975][674]LoadErrors: New page: Loading map: Level1.umap
+[2018.11.26-00.43.02:983][674]MapCheck: New page: Map Check
+[2018.11.26-00.43.02:983][674]LightingResults: New page: Lighting Build
+[2018.11.26-00.43.03:041][674]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-00.43.03:100][674]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-00.43.03:211][674]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110.718ms to complete.
+[2018.11.26-00.43.03:213][674]LogFileHelpers: Loading map 'Level1' took 0.239
+[2018.11.26-00.43.32:905][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-00.44.42:374][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-00.49.24:777][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/lambert1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:785][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:801][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:810][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:825][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A10.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:834][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A11.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:847][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A12.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:857][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A13.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:871][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A14.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:885][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A15.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:898][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A2.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:913][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A3.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:928][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A4.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:944][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A5.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:963][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A6.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.24:983][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A7.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:011][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A8.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:043][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaInferior_A9.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:082][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:137][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:193][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A10.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:266][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A11.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:373][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A12.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:444][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A13.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:526][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A14.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:584][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A15.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:649][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A2.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:705][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A3.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:756][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A4.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:814][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A5.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:877][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A6.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:936][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A7.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.25:999][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A8.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.26:067][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_folhaSuperior_A9.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.26:148][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.26:223][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.26:293][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A10.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.26:366][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A11.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.26:436][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A12.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.26:527][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A13.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.26:599][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A14.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.26:682][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A15.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.26:768][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A2.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.26:855][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A3.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.26:935][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A4.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.27:013][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A5.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.27:088][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A6.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.27:182][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A7.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.27:271][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A8.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.27:354][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_janela_moldura_A9.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.27:439][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_molas_tras_L_geo.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.27:547][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_molas_tras_L_geo_1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.27:642][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_molas_tras_R_geo.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.27:757][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_molas_tras_R_geo_1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.27:884][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_parabrisa_Central.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.28:005][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_parabrisa_Central1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.28:127][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_parabrisa_lateral.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.28:298][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_parabrisa_lateral1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.28:482][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_parabrisa_lateral2.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.28:686][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_parabrisa_lateral3.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.28:917][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_pCube5.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.29:077][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_L_a1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.29:251][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_L_a2.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.29:416][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_L_a3.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.29:600][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_L_a4.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.29:794][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_L_a5.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.30:004][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_L_a6.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.30:254][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_R_b1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.30:470][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_R_b2.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.30:677][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_R_b3.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.30:855][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_R_b4.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.31:025][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_R_b5.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.31:195][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_R_b6.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.31:354][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_porta_R_b7.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.31:521][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_rodas_geo_grp_A_rodas_geo.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.31:602][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_rodas_geo_grp_A_rodas_geo_1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.31:665][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_rodas_geo_grp_B_rodas_geo.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.31:725][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_rodas_geo_grp_B_rodas_geo_1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.31:787][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_suporte_suspen_diant_geo.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.31:845][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_suspensao_A_geo.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.31:920][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_suspensao_B_geo.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.31:990][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/Metro_Musarra_ver03_unreal_Vagao_geo.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.32:063][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/phong1.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.32:137][861]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Metro/phong2.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.49.35:291][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-00.49.41:406][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-00.50.44:772][741]LogAssetTools: Warning: Failed to import 'C:\Users\11710845\Documents\Unreal Projects\DarkSubway-master\Content\Blue\Metro.uasset'. Unknown extension 'uasset'.
+[2018.11.26-00.51.09:332][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:333][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Blueprints/Metro.uasset.
+[2018.11.26-00.51.09:333][879]LoadErrors: Error: /Game/Blueprints/Metro : Can't find file for asset. /Game/Blue/TrainDoor
+[2018.11.26-00.51.09:334][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:334][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Blueprints/Metro.uasset.
+[2018.11.26-00.51.09:334][879]LoadErrors: Error: /Game/Blueprints/Metro : Can't find file for asset. /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2
+[2018.11.26-00.51.09:335][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:335][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Blueprints/Metro.uasset.
+[2018.11.26-00.51.09:493][879]LogLinker: Warning: Can't find file '/Game/Sound/metroatenuation'
+[2018.11.26-00.51.09:493][879]LogLinker: Warning: Can't find file for asset '/Game/Sound/metroatenuation' while loading ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Blueprints/Metro.uasset.
+[2018.11.26-00.51.09:493][879]LoadErrors: Error: /Game/Blueprints/Metro : Can't find file for asset. /Game/Sound/metroatenuation
+[2018.11.26-00.51.09:493][879]LogLinker: Warning: Can't find file '/Game/Sound/sub'
+[2018.11.26-00.51.09:493][879]LogLinker: Warning: Can't find file for asset '/Game/Sound/sub' while loading ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Blueprints/Metro.uasset.
+[2018.11.26-00.51.09:493][879]LoadErrors: Error: /Game/Blueprints/Metro : Can't find file for asset. /Game/Sound/sub
+[2018.11.26-00.51.09:494][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:494][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Blueprints/Metro.uasset.
+[2018.11.26-00.51.09:494][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:494][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Blueprints/Metro.uasset.
+[2018.11.26-00.51.09:494][879]LoadErrors: Error: /Game/Blueprints/Metro : Can't find file for asset. /Game/StarterContent/Props/SM_Couch_2
+[2018.11.26-00.51.09:494][879]LogLinker: Warning: Can't find file '/Game/Sound/metroatenuation'
+[2018.11.26-00.51.09:495][879]LogLinker: Warning: Can't find file for asset '/Game/Sound/metroatenuation' while loading ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Blueprints/Metro.uasset.
+[2018.11.26-00.51.09:495][879]LogLinker: Warning: Can't find file '/Game/Sound/sub'
+[2018.11.26-00.51.09:495][879]LogLinker: Warning: Can't find file for asset '/Game/Sound/sub' while loading ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Blueprints/Metro.uasset.
+[2018.11.26-00.51.09:512][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:512][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Blueprints/Metro.uasset.
+[2018.11.26-00.51.09:515][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:515][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:515][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:515][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:515][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:515][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:515][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:516][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:516][879]LogLinker: Warning: Can't find file '/Game/Sound/metroatenuation'
+[2018.11.26-00.51.09:516][879]LogLinker: Warning: Can't find file for asset '/Game/Sound/metroatenuation' while loading NULL.
+[2018.11.26-00.51.09:516][879]LogLinker: Warning: Can't find file '/Game/Sound/sub'
+[2018.11.26-00.51.09:516][879]LogLinker: Warning: Can't find file for asset '/Game/Sound/sub' while loading NULL.
+[2018.11.26-00.51.09:516][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:517][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:517][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:517][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:517][879]LogLinker: Warning: Can't find file '/Game/Sound/metroatenuation'
+[2018.11.26-00.51.09:517][879]LogLinker: Warning: Can't find file for asset '/Game/Sound/metroatenuation' while loading NULL.
+[2018.11.26-00.51.09:517][879]LogLinker: Warning: Can't find file '/Game/Sound/sub'
+[2018.11.26-00.51.09:517][879]LogLinker: Warning: Can't find file for asset '/Game/Sound/sub' while loading NULL.
+[2018.11.26-00.51.09:518][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:518][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:531][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:531][879]LoadErrors: Failed to load /Game/Blue/TrainDoor.TrainDoor_C Referenced by K2Node_DynamicCast_3
+[2018.11.26-00.51.09:532][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:532][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:532][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:532][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:532][879]LoadErrors: Failed to load /Game/Blue/TrainDoor.TrainDoor_C Referenced by K2Node_CallFunction_16
+[2018.11.26-00.51.09:532][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:533][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:533][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:533][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:533][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:533][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:534][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:534][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:534][879]LoadErrors: Failed to load /Game/Blue/TrainDoor.TrainDoor_C Referenced by K2Node_CallFunction_1
+[2018.11.26-00.51.09:534][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:534][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:534][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:535][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:535][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A15_GEN_VARIABLE
+[2018.11.26-00.51.09:535][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:537][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:538][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A_GEN_VARIABLE
+[2018.11.26-00.51.09:538][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:538][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:538][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A1_GEN_VARIABLE
+[2018.11.26-00.51.09:539][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:539][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:539][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A10_GEN_VARIABLE
+[2018.11.26-00.51.09:539][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:539][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:539][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A11_GEN_VARIABLE
+[2018.11.26-00.51.09:540][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:540][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:540][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A12_GEN_VARIABLE
+[2018.11.26-00.51.09:540][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:540][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:541][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A13_GEN_VARIABLE
+[2018.11.26-00.51.09:541][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:541][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:541][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A14_GEN_VARIABLE
+[2018.11.26-00.51.09:541][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:542][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:542][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_Vagao_geo_GEN_VARIABLE
+[2018.11.26-00.51.09:542][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:542][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:543][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A2_GEN_VARIABLE
+[2018.11.26-00.51.09:543][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:543][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:543][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A3_GEN_VARIABLE
+[2018.11.26-00.51.09:543][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:544][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:544][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A4_GEN_VARIABLE
+[2018.11.26-00.51.09:544][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:544][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:544][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A5_GEN_VARIABLE
+[2018.11.26-00.51.09:545][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:545][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:545][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A6_GEN_VARIABLE
+[2018.11.26-00.51.09:545][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:546][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:546][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A7_GEN_VARIABLE
+[2018.11.26-00.51.09:546][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:546][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:546][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A8_GEN_VARIABLE
+[2018.11.26-00.51.09:547][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:547][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:547][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_janela_moldura_A9_GEN_VARIABLE
+[2018.11.26-00.51.09:547][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:548][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:548][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_molas_tras_L_geo_GEN_VARIABLE
+[2018.11.26-00.51.09:548][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:548][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:548][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_molas_tras_L_geo_1_GEN_VARIABLE
+[2018.11.26-00.51.09:549][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:549][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:549][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_molas_tras_R_geo_GEN_VARIABLE
+[2018.11.26-00.51.09:549][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:550][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:550][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_molas_tras_R_geo_1_GEN_VARIABLE
+[2018.11.26-00.51.09:550][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:551][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:551][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_parabrisa_Central_GEN_VARIABLE
+[2018.11.26-00.51.09:551][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:552][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:552][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_parabrisa_Central1_GEN_VARIABLE
+[2018.11.26-00.51.09:552][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:553][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:553][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_parabrisa_lateral_GEN_VARIABLE
+[2018.11.26-00.51.09:553][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:554][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:554][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_parabrisa_lateral1_GEN_VARIABLE
+[2018.11.26-00.51.09:554][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:554][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:555][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_parabrisa_lateral2_GEN_VARIABLE
+[2018.11.26-00.51.09:555][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:555][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:556][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_parabrisa_lateral3_GEN_VARIABLE
+[2018.11.26-00.51.09:556][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:556][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:556][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_pCube5_GEN_VARIABLE
+[2018.11.26-00.51.09:556][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:557][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:557][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_porta_L_a3_GEN_VARIABLE
+[2018.11.26-00.51.09:557][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:558][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:558][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_porta_L_a4_GEN_VARIABLE
+[2018.11.26-00.51.09:558][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:559][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:559][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_porta_L_a6_GEN_VARIABLE
+[2018.11.26-00.51.09:559][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:559][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:560][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_porta_R_b1_GEN_VARIABLE
+[2018.11.26-00.51.09:560][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:560][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:560][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_porta_R_b4_GEN_VARIABLE
+[2018.11.26-00.51.09:561][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:561][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:561][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_porta_R_b5_GEN_VARIABLE
+[2018.11.26-00.51.09:561][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:562][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:562][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_porta_R_b7_GEN_VARIABLE
+[2018.11.26-00.51.09:562][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:563][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:563][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_rodas_geo_grp_A_rodas_geo_GEN_VARIABLE
+[2018.11.26-00.51.09:563][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:563][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:564][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_rodas_geo_grp_A_rodas_geo_1_GEN_VARIABLE
+[2018.11.26-00.51.09:564][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:564][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:564][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_rodas_geo_grp_B_rodas_geo_GEN_VARIABLE
+[2018.11.26-00.51.09:565][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:565][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:565][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_rodas_geo_grp_B_rodas_geo_1_GEN_VARIABLE
+[2018.11.26-00.51.09:566][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:566][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:566][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_suporte_suspen_diant_geo_GEN_VARIABLE
+[2018.11.26-00.51.09:566][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:567][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:567][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_suspensao_A_geo_GEN_VARIABLE
+[2018.11.26-00.51.09:567][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:568][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:568][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by Metro_Musarra_ver03_unreal_suspensao_B_geo_GEN_VARIABLE
+[2018.11.26-00.51.09:568][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:569][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:569][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by SM_Couch_2_GEN_VARIABLE
+[2018.11.26-00.51.09:569][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:569][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:570][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh141_GEN_VARIABLE
+[2018.11.26-00.51.09:570][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:570][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:570][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh148_GEN_VARIABLE
+[2018.11.26-00.51.09:570][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:571][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:571][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh160_GEN_VARIABLE
+[2018.11.26-00.51.09:571][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:571][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:572][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh161_GEN_VARIABLE
+[2018.11.26-00.51.09:572][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:572][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:572][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh163_GEN_VARIABLE
+[2018.11.26-00.51.09:572][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:573][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:573][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh164_GEN_VARIABLE
+[2018.11.26-00.51.09:573][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:573][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:574][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh165_GEN_VARIABLE
+[2018.11.26-00.51.09:574][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:574][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:574][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh166_GEN_VARIABLE
+[2018.11.26-00.51.09:574][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:575][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:575][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh162_GEN_VARIABLE
+[2018.11.26-00.51.09:575][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:576][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:576][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh3_GEN_VARIABLE
+[2018.11.26-00.51.09:576][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:579][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:579][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh33_GEN_VARIABLE
+[2018.11.26-00.51.09:579][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:580][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:580][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh34_GEN_VARIABLE
+[2018.11.26-00.51.09:580][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:581][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:581][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh35_GEN_VARIABLE
+[2018.11.26-00.51.09:581][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:581][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:582][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh36_GEN_VARIABLE
+[2018.11.26-00.51.09:582][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:582][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:583][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh37_GEN_VARIABLE
+[2018.11.26-00.51.09:583][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:583][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:584][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh38_GEN_VARIABLE
+[2018.11.26-00.51.09:584][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:584][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:585][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh39_GEN_VARIABLE
+[2018.11.26-00.51.09:585][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:585][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:586][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh40_GEN_VARIABLE
+[2018.11.26-00.51.09:586][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:586][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:586][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh41_GEN_VARIABLE
+[2018.11.26-00.51.09:587][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:587][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:587][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh42_GEN_VARIABLE
+[2018.11.26-00.51.09:588][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:588][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:589][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh43_GEN_VARIABLE
+[2018.11.26-00.51.09:589][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:589][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:590][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh44_GEN_VARIABLE
+[2018.11.26-00.51.09:590][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:590][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:591][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh45_GEN_VARIABLE
+[2018.11.26-00.51.09:591][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:591][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:592][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh46_GEN_VARIABLE
+[2018.11.26-00.51.09:592][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:592][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:592][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh47_GEN_VARIABLE
+[2018.11.26-00.51.09:593][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:593][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:594][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh48_GEN_VARIABLE
+[2018.11.26-00.51.09:594][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:594][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:595][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh49_GEN_VARIABLE
+[2018.11.26-00.51.09:595][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:595][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:596][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh50_GEN_VARIABLE
+[2018.11.26-00.51.09:596][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:596][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:597][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh51_GEN_VARIABLE
+[2018.11.26-00.51.09:597][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:597][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:598][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh52_GEN_VARIABLE
+[2018.11.26-00.51.09:598][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:599][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:599][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh53_GEN_VARIABLE
+[2018.11.26-00.51.09:599][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:600][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:600][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh54_GEN_VARIABLE
+[2018.11.26-00.51.09:600][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:601][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:601][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh55_GEN_VARIABLE
+[2018.11.26-00.51.09:601][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:602][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:602][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh56_GEN_VARIABLE
+[2018.11.26-00.51.09:602][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:603][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:603][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh57_GEN_VARIABLE
+[2018.11.26-00.51.09:603][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:604][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:604][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh58_GEN_VARIABLE
+[2018.11.26-00.51.09:604][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:605][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:605][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh59_GEN_VARIABLE
+[2018.11.26-00.51.09:606][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:606][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:607][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh62_GEN_VARIABLE
+[2018.11.26-00.51.09:607][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:607][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:608][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh63_GEN_VARIABLE
+[2018.11.26-00.51.09:608][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:609][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:609][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh65_GEN_VARIABLE
+[2018.11.26-00.51.09:609][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:610][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:610][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh66_GEN_VARIABLE
+[2018.11.26-00.51.09:610][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:611][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:611][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh69_GEN_VARIABLE
+[2018.11.26-00.51.09:611][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:612][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:612][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh70_GEN_VARIABLE
+[2018.11.26-00.51.09:613][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:613][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:614][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh72_GEN_VARIABLE
+[2018.11.26-00.51.09:614][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:614][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:615][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh73_GEN_VARIABLE
+[2018.11.26-00.51.09:615][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:615][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:616][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh74_GEN_VARIABLE
+[2018.11.26-00.51.09:616][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:617][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:617][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh75_GEN_VARIABLE
+[2018.11.26-00.51.09:617][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:618][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:618][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh76_GEN_VARIABLE
+[2018.11.26-00.51.09:619][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:619][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:620][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh77_GEN_VARIABLE
+[2018.11.26-00.51.09:620][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:620][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:621][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh78_GEN_VARIABLE
+[2018.11.26-00.51.09:621][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:622][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:622][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh79_GEN_VARIABLE
+[2018.11.26-00.51.09:622][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:623][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:623][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh167_GEN_VARIABLE
+[2018.11.26-00.51.09:623][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:624][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:624][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh169_GEN_VARIABLE
+[2018.11.26-00.51.09:624][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:625][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:625][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh170_GEN_VARIABLE
+[2018.11.26-00.51.09:625][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:625][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:626][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh171_GEN_VARIABLE
+[2018.11.26-00.51.09:626][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:626][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:627][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh168_GEN_VARIABLE
+[2018.11.26-00.51.09:627][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:627][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:627][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh172_GEN_VARIABLE
+[2018.11.26-00.51.09:628][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:628][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:628][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh173_GEN_VARIABLE
+[2018.11.26-00.51.09:629][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:629][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:629][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh174_GEN_VARIABLE
+[2018.11.26-00.51.09:629][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:630][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:630][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh175_GEN_VARIABLE
+[2018.11.26-00.51.09:630][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:631][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:631][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh176_GEN_VARIABLE
+[2018.11.26-00.51.09:631][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:632][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:632][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh83_GEN_VARIABLE
+[2018.11.26-00.51.09:633][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:635][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:636][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh113_GEN_VARIABLE
+[2018.11.26-00.51.09:636][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:636][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:637][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh114_GEN_VARIABLE
+[2018.11.26-00.51.09:637][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:638][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:638][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh115_GEN_VARIABLE
+[2018.11.26-00.51.09:638][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:639][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:640][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh116_GEN_VARIABLE
+[2018.11.26-00.51.09:640][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:640][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:641][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh117_GEN_VARIABLE
+[2018.11.26-00.51.09:641][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:642][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:642][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh118_GEN_VARIABLE
+[2018.11.26-00.51.09:642][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:643][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:644][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh119_GEN_VARIABLE
+[2018.11.26-00.51.09:644][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:644][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:645][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh120_GEN_VARIABLE
+[2018.11.26-00.51.09:645][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:646][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:646][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh121_GEN_VARIABLE
+[2018.11.26-00.51.09:646][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:647][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:647][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh122_GEN_VARIABLE
+[2018.11.26-00.51.09:648][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:648][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:649][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh123_GEN_VARIABLE
+[2018.11.26-00.51.09:649][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:651][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:651][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh124_GEN_VARIABLE
+[2018.11.26-00.51.09:652][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:653][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:654][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh125_GEN_VARIABLE
+[2018.11.26-00.51.09:654][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:655][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:656][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh126_GEN_VARIABLE
+[2018.11.26-00.51.09:656][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:659][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:660][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh127_GEN_VARIABLE
+[2018.11.26-00.51.09:660][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:661][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:662][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh128_GEN_VARIABLE
+[2018.11.26-00.51.09:662][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:662][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:663][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh129_GEN_VARIABLE
+[2018.11.26-00.51.09:663][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:664][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:664][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh130_GEN_VARIABLE
+[2018.11.26-00.51.09:664][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:665][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:666][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh131_GEN_VARIABLE
+[2018.11.26-00.51.09:666][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:667][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:667][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh132_GEN_VARIABLE
+[2018.11.26-00.51.09:667][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:668][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:668][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh133_GEN_VARIABLE
+[2018.11.26-00.51.09:669][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:669][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:670][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh134_GEN_VARIABLE
+[2018.11.26-00.51.09:670][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:671][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:672][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh135_GEN_VARIABLE
+[2018.11.26-00.51.09:672][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:673][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:673][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh136_GEN_VARIABLE
+[2018.11.26-00.51.09:674][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:674][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:674][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh137_GEN_VARIABLE
+[2018.11.26-00.51.09:674][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:675][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:675][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh138_GEN_VARIABLE
+[2018.11.26-00.51.09:675][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:676][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:677][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh139_GEN_VARIABLE
+[2018.11.26-00.51.09:677][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:678][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:678][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh142_GEN_VARIABLE
+[2018.11.26-00.51.09:679][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:679][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:680][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh143_GEN_VARIABLE
+[2018.11.26-00.51.09:680][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:681][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:681][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh145_GEN_VARIABLE
+[2018.11.26-00.51.09:682][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:683][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:683][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh146_GEN_VARIABLE
+[2018.11.26-00.51.09:683][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:684][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:685][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh149_GEN_VARIABLE
+[2018.11.26-00.51.09:685][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:686][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:686][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh150_GEN_VARIABLE
+[2018.11.26-00.51.09:687][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:688][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:688][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh152_GEN_VARIABLE
+[2018.11.26-00.51.09:688][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:689][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:690][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh153_GEN_VARIABLE
+[2018.11.26-00.51.09:690][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:691][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:691][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh154_GEN_VARIABLE
+[2018.11.26-00.51.09:692][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:692][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:693][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh155_GEN_VARIABLE
+[2018.11.26-00.51.09:693][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:694][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:694][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh156_GEN_VARIABLE
+[2018.11.26-00.51.09:695][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:695][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:696][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh157_GEN_VARIABLE
+[2018.11.26-00.51.09:696][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:697][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:698][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh158_GEN_VARIABLE
+[2018.11.26-00.51.09:698][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:699][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2'
+[2018.11.26-00.51.09:699][879]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Metal_Burnished_Steel_2.M_Metal_Burnished_Steel_2 Referenced by StaticMesh159_GEN_VARIABLE
+[2018.11.26-00.51.09:699][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Metal_Burnished_Steel_2' while loading NULL.
+[2018.11.26-00.51.09:700][879]LogLinker: Warning: Can't find file '/Game/Sound/sub'
+[2018.11.26-00.51.09:700][879]LoadErrors: Failed to load /Game/Sound/sub.sub Referenced by sub_GEN_VARIABLE
+[2018.11.26-00.51.09:701][879]LogLinker: Warning: Can't find file for asset '/Game/Sound/sub' while loading NULL.
+[2018.11.26-00.51.09:701][879]LogLinker: Warning: Can't find file '/Game/Sound/metroatenuation'
+[2018.11.26-00.51.09:701][879]LoadErrors: Failed to load /Game/Sound/metroatenuation.metroatenuation Referenced by sub_GEN_VARIABLE
+[2018.11.26-00.51.09:701][879]LogLinker: Warning: Can't find file for asset '/Game/Sound/metroatenuation' while loading NULL.
+[2018.11.26-00.51.09:702][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:703][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh177_GEN_VARIABLE
+[2018.11.26-00.51.09:703][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:703][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:704][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh178_GEN_VARIABLE
+[2018.11.26-00.51.09:704][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:705][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:705][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh179_GEN_VARIABLE
+[2018.11.26-00.51.09:705][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:706][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:706][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh180_GEN_VARIABLE
+[2018.11.26-00.51.09:706][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:707][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:707][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh181_GEN_VARIABLE
+[2018.11.26-00.51.09:707][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:708][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:708][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh182_GEN_VARIABLE
+[2018.11.26-00.51.09:708][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:709][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:709][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh183_GEN_VARIABLE
+[2018.11.26-00.51.09:709][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:710][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:710][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh184_GEN_VARIABLE
+[2018.11.26-00.51.09:711][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:711][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:711][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh185_GEN_VARIABLE
+[2018.11.26-00.51.09:712][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:712][879]LogLinker: Warning: Can't find file '/Game/StarterContent/Props/SM_Couch_2'
+[2018.11.26-00.51.09:713][879]LoadErrors: Failed to load /Game/StarterContent/Props/SM_Couch_2.SM_Couch_2 Referenced by StaticMesh186_GEN_VARIABLE
+[2018.11.26-00.51.09:713][879]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Props/SM_Couch_2' while loading NULL.
+[2018.11.26-00.51.09:714][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:714][879]LoadErrors: Failed to load /Game/Blue/TrainDoor.TrainDoor_C Referenced by TrainDoor_GEN_VARIABLE
+[2018.11.26-00.51.09:714][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:714][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:715][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:715][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:715][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:715][879]LogLinker: Warning: Unable to load TrainDoor_GEN_VARIABLE_TrainDoor_C_CAT with outer ChildActorComponent /Game/Blueprints/Metro.Metro_C:TrainDoor_GEN_VARIABLE because its class does not exist
+[2018.11.26-00.51.09:716][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:716][879]LoadErrors: Failed to load /Game/Blue/TrainDoor.TrainDoor_C Referenced by ChildActor4_GEN_VARIABLE
+[2018.11.26-00.51.09:716][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:716][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:717][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:717][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:717][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:718][879]LogLinker: Warning: Unable to load TrainDoor_GEN_VARIABLE_TrainDoor_C_CAT with outer ChildActorComponent /Game/Blueprints/Metro.Metro_C:ChildActor4_GEN_VARIABLE because its class does not exist
+[2018.11.26-00.51.09:718][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:718][879]LoadErrors: Failed to load /Game/Blue/TrainDoor.TrainDoor_C Referenced by ChildActor3_GEN_VARIABLE
+[2018.11.26-00.51.09:718][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:719][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:719][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:719][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:719][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:720][879]LogLinker: Warning: Unable to load TrainDoor_GEN_VARIABLE_TrainDoor_C_CAT with outer ChildActorComponent /Game/Blueprints/Metro.Metro_C:ChildActor3_GEN_VARIABLE because its class does not exist
+[2018.11.26-00.51.09:720][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:720][879]LoadErrors: Failed to load /Game/Blue/TrainDoor.TrainDoor_C Referenced by ChildActor5_GEN_VARIABLE
+[2018.11.26-00.51.09:720][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:721][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:721][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:721][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:722][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:722][879]LogLinker: Warning: Unable to load TrainDoor_GEN_VARIABLE_TrainDoor_C_CAT with outer ChildActorComponent /Game/Blueprints/Metro.Metro_C:ChildActor5_GEN_VARIABLE because its class does not exist
+[2018.11.26-00.51.09:722][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:723][879]LoadErrors: Failed to load /Game/Blue/TrainDoor.TrainDoor_C Referenced by ChildActor6_GEN_VARIABLE
+[2018.11.26-00.51.09:723][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:723][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:723][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:724][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:724][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:724][879]LogLinker: Warning: Unable to load TrainDoor_GEN_VARIABLE_TrainDoor_C_CAT with outer ChildActorComponent /Game/Blueprints/Metro.Metro_C:ChildActor6_GEN_VARIABLE because its class does not exist
+[2018.11.26-00.51.09:724][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:725][879]LoadErrors: Failed to load /Game/Blue/TrainDoor.TrainDoor_C Referenced by ChildActor7_GEN_VARIABLE
+[2018.11.26-00.51.09:725][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:725][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:725][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:726][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:726][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:726][879]LogLinker: Warning: Unable to load TrainDoor_GEN_VARIABLE_TrainDoor_C_CAT with outer ChildActorComponent /Game/Blueprints/Metro.Metro_C:ChildActor7_GEN_VARIABLE because its class does not exist
+[2018.11.26-00.51.09:726][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:727][879]LoadErrors: Failed to load /Game/Blue/TrainDoor.TrainDoor_C Referenced by ChildActor8_GEN_VARIABLE
+[2018.11.26-00.51.09:727][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:727][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:727][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:728][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:728][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:728][879]LogLinker: Warning: Unable to load TrainDoor_GEN_VARIABLE_TrainDoor_C_CAT with outer ChildActorComponent /Game/Blueprints/Metro.Metro_C:ChildActor8_GEN_VARIABLE because its class does not exist
+[2018.11.26-00.51.09:729][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:729][879]LoadErrors: Failed to load /Game/Blue/TrainDoor.TrainDoor_C Referenced by ChildActor9_GEN_VARIABLE
+[2018.11.26-00.51.09:729][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:730][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:730][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:730][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:730][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:731][879]LogLinker: Warning: Unable to load TrainDoor_GEN_VARIABLE_TrainDoor_C_CAT with outer ChildActorComponent /Game/Blueprints/Metro.Metro_C:ChildActor9_GEN_VARIABLE because its class does not exist
+[2018.11.26-00.51.09:731][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:731][879]LoadErrors: Failed to load /Game/Blue/TrainDoor.TrainDoor_C Referenced by ChildActor10_GEN_VARIABLE
+[2018.11.26-00.51.09:731][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:732][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:732][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:732][879]LogLinker: Warning: Can't find file '/Game/Blue/TrainDoor'
+[2018.11.26-00.51.09:732][879]LogLinker: Warning: Can't find file for asset '/Game/Blue/TrainDoor' while loading NULL.
+[2018.11.26-00.51.09:733][879]LogLinker: Warning: Unable to load TrainDoor_GEN_VARIABLE_TrainDoor_C_CAT with outer ChildActorComponent /Game/Blueprints/Metro.Metro_C:ChildActor10_GEN_VARIABLE because its class does not exist
+[2018.11.26-00.51.09:777][879]LogBlueprint: Error: [Compiler Metro] Can't connect pins  Object  and  Child Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.11.26-00.51.09:777][879]LogBlueprint: Error: [Compiler Metro] In use pin  As Train Door  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.11.26-00.51.09:777][879]LogBlueprint: Error: [Compiler Metro] In use pin  <Unnamed>  no longer exists on node  Open Event . Please refresh node or break links to remove pin.
+[2018.11.26-00.51.09:777][879]LogBlueprint: Error: [Compiler Metro] In use pin  Target  no longer exists on node  Open Event . Please refresh node or break links to remove pin.
+[2018.11.26-00.51.09:777][879]LogBlueprint: Error: [Compiler Metro] Could not find a function named "Open_Event" in 'Metro'.
+Make sure 'Metro' has been compiled for  Open Event
+[2018.11.26-00.51.09:777][879]LogBlueprint: Error: [Compiler Metro] Can't connect pins  Child Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.11.26-00.51.09:778][879]LogBlueprint: Error: [Compiler Metro] Can't connect pins  Child Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.11.26-00.51.09:778][879]LogBlueprint: Error: [Compiler Metro] Can't connect pins  Object  and  Child Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.11.26-00.51.09:778][879]LogBlueprint: Error: [Compiler Metro] In use pin  As Train Door  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.11.26-00.51.09:778][879]LogBlueprint: Error: [Compiler Metro] In use pin  <Unnamed>  no longer exists on node  Close Event . Please refresh node or break links to remove pin.
+[2018.11.26-00.51.09:778][879]LogBlueprint: Error: [Compiler Metro] In use pin  Target  no longer exists on node  Close Event . Please refresh node or break links to remove pin.
+[2018.11.26-00.51.09:778][879]LogBlueprint: Error: [Compiler Metro] Could not find a function named "Close_Event" in 'Metro'.
+Make sure 'Metro' has been compiled for  Close Event
+[2018.11.26-00.51.09:781][879]LogBlueprint: Warning: [Compiler Metro] [0554.56] Compile of Metro failed. 12 Fatal Issue(s) 0 Warning(s) [in 47 ms] (/Game/Blueprints/Metro.Metro)
+[2018.11.26-00.51.09:881][879]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.11.26-00.51.09:928][879]LogMaterial: Display: Missing cached shader map for material phong1, compiling. 
+[2018.11.26-00.51.10:154][879]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-00.51.10:154][879]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-00.51.10:154][879]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-00.51.10:154][879]LogMaterial: Display: Missing cached shader map for material phong2, compiling. 
+[2018.11.26-00.51.15:939][ 30]Cmd: DELETE
+[2018.11.26-00.51.15:939][ 30]Cmd: ACTOR DELETE
+[2018.11.26-00.51.16:212][ 30]LogEditorActor: Deleted Actor: Metro_C
+[2018.11.26-00.51.16:236][ 30]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.26-00.51.16:238][ 30]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2018.11.26-00.51.19:011][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-00.51.20:172][140]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Metro.Metro
+[2018.11.26-00.51.21:538][140]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.11.26-00.51.23:401][140]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.26-00.51.23:666][141]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.26-00.51.24:046][149]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.26-00.51.25:962][188]LogRenderer: Reallocating scene render targets to support 964x540 Format 26 NumSamples 1 (Frame:1).
+[2018.11.26-00.51.36:043][320]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.26-00.51.40:333][370]LogSlate: Window 'Metro' being destroyed
+[2018.11.26-00.51.40:348][370]LogSlate: Window 'Metro' being destroyed
+[2018.11.26-00.51.41:836][397]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.26-00.51.50:811][592]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.26-00.51.55:728][681]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.26-00.52.37:536][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Metro" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Blueprints/Metro.uasset" SILENT=true
+[2018.11.26-00.52.40:471][367]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.827 s
+[2018.11.26-00.52.40:471][367]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.26-00.52.40:471][367]LogOutputDevice: Error: 
+[2018.11.26-00.52.40:471][367]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2018.11.26-00.52.40:471][367]LogOutputDevice: Error: Found circular redirect from /Game/Blueprints/Metro.Metro to /Game/Blueprints/Metro.Metro! Returning None instead
+[2018.11.26-00.52.40:471][367]LogOutputDevice: Error: Stack: 
+[2018.11.26-00.52.40:471][367]LogOutputDevice: Error: [Callstack] 0x00007fff320771f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.26-00.52.40:471][367]LogOutputDevice: Error: [Callstack] 0x00007fff31db0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.26-00.52.40:471][367]LogOutputDevice: Error: [Callstack] 0x00007fff31dcb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.26-00.52.40:471][367]LogOutputDevice: Error: [Callstack] 0x00007fff32622ca4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:471][367]LogOutputDevice: Error: [Callstack] 0x00007fff3295d893 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff3296df57 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff326667f7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff3296d963 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff32782f39 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff32905076 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff32905295 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff3278572f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff32782c33 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff32905076 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff32892cc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff32905295 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff3278572f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff32894a42 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff3289134b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff17306bfa UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff17306542 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff328df06d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff32909138 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff328eea65 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff25deecd6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff25def640 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff25e32e13 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff25e2f60b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff2670da43 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff261eab44 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-00.52.40:472][367]LogOutputDevice: Error: [Callstack] 0x00007fff261e9441 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff26200878 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff0a40d07a UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff0a3d5d0d UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff0a41b3b7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff090b042a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff09178c06 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff091734d1 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff0917e041 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff0907b0ec UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff0907b326 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff317d5059 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff317dd660 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff317b1e2f UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff31899c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff317df375 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff316894c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff31721db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff31707c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff316fb25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff4a9ad1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff4a9a0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff4a9af4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff4a99c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff7fe86d41 USER32.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff7fe86713 USER32.dll!UnknownFunction []
+[2018.11.26-00.52.40:473][367]LogOutputDevice: Error: [Callstack] 0x00007fff4a9b0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.26-00.52.40:474][367]LogOutputDevice: Error: [Callstack] 0x00007ff7ae9954e5 UE4Editor.exe!UnknownFunction []
+[2018.11.26-00.52.40:474][367]LogOutputDevice: Error: [Callstack] 0x00007ff7ae9a5b3c UE4Editor.exe!UnknownFunction []
+[2018.11.26-00.52.40:474][367]LogOutputDevice: Error: [Callstack] 0x00007ff7ae9a5bba UE4Editor.exe!UnknownFunction []
+[2018.11.26-00.52.40:474][367]LogOutputDevice: Error: [Callstack] 0x00007ff7ae9b3dac UE4Editor.exe!UnknownFunction []
+[2018.11.26-00.52.40:474][367]LogOutputDevice: Error: [Callstack] 0x00007ff7ae9b5aaa UE4Editor.exe!UnknownFunction []
+[2018.11.26-00.52.40:474][367]LogOutputDevice: Error: [Callstack] 0x00007fff7d6f3034 KERNEL32.DLL!UnknownFunction []
+[2018.11.26-00.52.40:474][367]LogOutputDevice: Error: [Callstack] 0x00007fff800a1471 ntdll.dll!UnknownFunction []
+[2018.11.26-00.52.40:474][367]LogOutputDevice: Error: 
+[2018.11.26-00.52.40:486][367]LogStats:                SubmitErrorReport -  0.010 s

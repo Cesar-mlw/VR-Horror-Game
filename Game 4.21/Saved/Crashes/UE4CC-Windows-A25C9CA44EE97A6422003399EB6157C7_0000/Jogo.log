@@ -1,0 +1,729 @@
+﻿Log file open, 11/26/18 17:10:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Jogo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.231325
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.168s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Southrad69" -epicuserid=e2d37fcde89a43f3a0bd00ea4a4d8205 -epiclocale=pt-BR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.063s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.26-19.10.50:359][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.26-19.10.50:360][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.26-19.10.50:438][  0]LogHAL: Display: Platform has ~ 8 GB [8461004800 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.26-19.10.50:438][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.26-19.10.50:438][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.26-19.10.50:442][  0]LogInit: Computer: JTNT40
+[2018.11.26-19.10.50:442][  0]LogInit: User: 11710845
+[2018.11.26-19.10.50:442][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.11.26-19.10.50:442][  0]LogInit: High frequency timer resolution =2.648438 MHz
+[2018.11.26-19.10.50:443][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.26-19.10.50:443][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.26-19.10.50:443][  0]LogMemory: Process Physical Memory: 100.22 MB used, 100.22 MB peak
+[2018.11.26-19.10.50:443][  0]LogMemory: Process Virtual Memory: 83.93 MB used, 83.93 MB peak
+[2018.11.26-19.10.50:443][  0]LogMemory: Physical Memory: 3066.62 MB used,  5002.42 MB free, 8069.04 MB total
+[2018.11.26-19.10.50:443][  0]LogMemory: Virtual Memory: 4616.30 MB used,  5002.42 MB free, 134217728.00 MB total
+[2018.11.26-19.10.50:497][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.11.26-19.10.50:497][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.11.26-19.10.51:060][  0]LogStreaming: Display: Took  0.562s to InitEngineTextLocalization.
+[2018.11.26-19.10.51:060][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.26-19.10.51:174][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.26-19.10.51:174][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.26-19.10.54:939][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.26-19.10.54:939][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.26-19.10.55:016][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.11.26-19.10.55:016][  0]LogD3D11RHI:       128/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.11.26-19.10.55:019][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.26-19.10.55:019][  0]LogD3D11RHI:       0/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.26-19.10.55:019][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.26-19.10.55:025][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.26-19.10.55:025][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.26-19.10.55:025][  0]LogWindows: EnumDisplayDevices:
+[2018.11.26-19.10.55:025][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.11.26-19.10.55:026][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.11.26-19.10.55:026][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.11.26-19.10.55:026][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.11.26-19.10.55:026][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.11.26-19.10.55:026][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2018.11.26-19.10.55:026][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2018.11.26-19.10.55:026][  0]LogRHI: Texture pool is 1501 MB (70% of 2145 MB)
+[2018.11.26-19.10.55:083][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.26-19.10.55:092][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2018.11.26-19.10.55:094][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Intermediate/Shaders/WorkingDirectory/6240/).
+[2018.11.26-19.10.55:095][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/11710845/AppData/Local/Temp/UnrealShaderWorkingDir/F1D94174479387A2FD28E8A4257F22A4/'.
+[2018.11.26-19.10.55:636][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.26-19.10.55:657][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.26-19.10.55:686][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.26-19.10.55:731][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.26-19.10.55:777][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.26-19.10.55:813][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.26-19.10.55:837][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.26-19.10.55:858][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.26-19.10.55:871][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:979][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-19.10.55:983][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.26-19.10.56:093][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.26-19.10.56:093][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.26-19.10.56:140][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.26-19.10.56:140][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.26-19.10.56:163][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.26-19.10.56:184][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.26-19.10.56:204][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.26-19.10.56:232][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.26-19.10.56:249][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.26-19.10.56:249][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.26-19.10.56:392][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.26-19.10.56:392][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.26-19.10.56:392][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.26-19.10.59:186][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.26-19.10.59:278][  0]LogDerivedDataCache: Loaded boot cache 0.09s 86MB C:/Users/11710845/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.26-19.10.59:279][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/11710845/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.26-19.10.59:279][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.26-19.10.59:279][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.26-19.10.59:279][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.26-19.10.59:279][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.26-19.10.59:295][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.26-19.10.59:316][  0]LogDerivedDataCache: Using Local data cache path C:/Users/11710845/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.26-19.10.59:316][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.26-19.10.59:316][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.26-19.10.59:344][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.26-19.10.59:346][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.26-19.10.59:354][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.26-19.10.59:838][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2018.11.26-19.11.00:360][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.26-19.11.00:568][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.26-19.11.00:579][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.26-19.11.00:579][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.26-19.11.00:579][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.26-19.11.00:579][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.26-19.11.00:602][  0]LogNetVersion: Jogo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2335468435)
+[2018.11.26-19.11.01:775][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.468220 seconds
+[2018.11.26-19.11.01:786][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.26-19.11.01:786][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.26-19.11.01:786][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.26-19.11.07:952][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.26-19.11.07:971][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.26-19.11.08:415][  0]SourceControl: Source control is disabled
+[2018.11.26-19.11.08:416][  0]SourceControl: Source control is disabled
+[2018.11.26-19.11.08:422][  0]SourceControl: Source control is disabled
+[2018.11.26-19.11.08:428][  0]SourceControl: Source control is disabled
+[2018.11.26-19.11.08:812][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.26-19.11.08:912][  0]LogOcInput: OculusInput pre-init called
+[2018.11.26-19.11.09:022][  0]LogEngine: Initializing Engine...
+[2018.11.26-19.11.09:026][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.26-19.11.09:028][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.26-19.11.09:028][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.26-19.11.09:028][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.26-19.11.09:028][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.26-19.11.09:553][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.26-19.11.09:582][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.26-19.11.09:596][  0]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-19.11.09:651][  0]LogInit: FAudioDevice initialized.
+[2018.11.26-19.11.09:652][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.26-19.11.09:881][  0]LogDerivedDataCache: Saved boot cache 0.23s 86MB C:/Users/11710845/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.26-19.11.09:901][  0]LogInit: Texture streaming: Enabled
+[2018.11.26-19.11.09:947][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.26-19.11.09:976][  0]LogInit: Transaction tracking system initialized
+[2018.11.26-19.11.10:032][  0]BlueprintLog: New page: Editor Load
+[2018.11.26-19.11.10:252][  0]LocalizationService: Localization service is disabled
+[2018.11.26-19.11.11:576][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.26-19.11.11:577][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.26-19.11.11:577][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.26-19.11.11:577][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.26-19.11.11:577][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.26-19.11.11:577][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.26-19.11.11:577][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.26-19.11.11:759][  0]LogFileCache: Scanning file cache for directory 'C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/' took 0.02s
+[2018.11.26-19.11.11:937][  0]SourceControl: Source control is disabled
+[2018.11.26-19.11.11:937][  0]Cmd: MAP LOAD FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-19.11.12:151][  0]LightingResults: New page: Lighting Build
+[2018.11.26-19.11.12:166][  0]MapCheck: New page: Map Check
+[2018.11.26-19.11.12:166][  0]LightingResults: New page: Lighting Build
+[2018.11.26-19.11.12:838][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.11.26-19.11.12:857][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.11.26-19.11.12:886][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-19.11.13:334][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 448.042ms to complete.
+[2018.11.26-19.11.13:335][  0]LogFileHelpers: Loading map 'StartupMap' took 1.398
+[2018.11.26-19.11.13:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-19.11.13:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-19.11.13:710][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-19.11.13:719][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-19.11.13:765][  0]LogCollectionManager: Loaded 0 collections in 0.002888 seconds
+[2018.11.26-19.11.13:830][  0]LogFileCache: Scanning file cache for directory 'C:/Users/11710845/Documents/Unreal Projects/Jogo/Saved/Collections/' took 0.01s
+[2018.11.26-19.11.13:830][  0]LogFileCache: Scanning file cache for directory 'C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Developers/11710845/Collections/' took 0.01s
+[2018.11.26-19.11.13:830][  0]LogFileCache: Scanning file cache for directory 'C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Collections/' took 0.01s
+[2018.11.26-19.11.13:830][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.26-19.11.13:850][  0]LogContentBrowser: Native class hierarchy populated in 0.0193 seconds. Added 2572 classes and 603 folders.
+[2018.11.26-19.11.13:865][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.26-19.11.16:176][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.26-19.11.16:332][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.26-19.11.16:355][  0]LogSlate: Took 0.004409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.26-19.11.16:366][  0]LogSlate: Took 0.006131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.26-19.11.16:401][  0]LogSlate: Took 0.024628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.26-19.11.16:675][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 26 NumSamples 1 (Frame:1).
+[2018.11.26-19.11.17:057][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.11.26-19.11.17:057][  0]LogLoad: (Engine Initialization) Total time: 33.04 seconds
+[2018.11.26-19.11.17:057][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.26-19.11.17:080][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.26-19.11.17:118][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.26-19.11.17:349][  2]LogSlate: Took 0.032275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.26-19.11.17:884][  3]LogAssetRegistry: Asset discovery search completed in 18.0697 seconds
+[2018.11.26-19.11.17:892][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.11.26-19.11.17:893][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000506 seconds (updated 0 objects)
+[2018.11.26-20.41.01:378][128]LogHttp: Warning: 000002961BD7F9C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.26-20.41.01:378][128]LogHttp: Warning: 000002961BD7F9C0: libcurl info message cache 0 (Connection 32 seems to be dead!)
+[2018.11.26-20.41.01:378][128]LogHttp: Warning: 000002961BD7F9C0: libcurl info message cache 1 (Closing connection 32)
+[2018.11.26-20.41.01:378][128]LogHttp: Warning: 000002961BD7F9C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.11.26-20.41.01:378][128]LogHttp: Warning: 000002961BD7F9C0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.26-20.41.01:378][128]LogHttp: Warning: 000002961BD7F9C0: libcurl info message cache 4 (Closing connection 33)
+[2018.11.26-20.56.49:505][780]LogSlate: Took 0.003448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.26-20.57.36:701][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-20.57.36:940][922]AssetReimport: New page: Outstanding source content changes 4:57:36 PM
+[2018.11.26-20.57.36:977][922]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/CabinTexture.png)
+[2018.11.26-20.57.38:841][923]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroCabin.fbx)
+[2018.11.26-20.57.39:001][923]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroCabin.fbx
+[2018.11.26-20.57.39:024][923]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-20.57.41:040][923]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.26-20.57.42:204][923]LogStaticMesh: Building static mesh metroCabin...
+[2018.11.26-20.57.42:362][923]LogStaticMesh: Built static mesh [0.16s] /Game/Metro/metroCabin.metroCabin
+[2018.11.26-20.57.42:697][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-20.57.43:340][924]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroConnection.fbx)
+[2018.11.26-20.57.43:372][924]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroConnection.fbx
+[2018.11.26-20.57.43:384][924]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-20.57.45:347][924]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.26-20.57.45:418][924]LogStaticMesh: Building static mesh metroConnection...
+[2018.11.26-20.57.45:418][924]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroConnection.metroConnection
+[2018.11.26-20.57.45:467][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-20.57.45:496][925]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.fbx)
+[2018.11.26-20.57.45:528][925]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.fbx
+[2018.11.26-20.57.45:541][925]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-20.57.47:079][925]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.26-20.57.47:167][925]LogStaticMesh: Building static mesh metroDoor...
+[2018.11.26-20.57.47:168][925]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroDoor.metroDoor
+[2018.11.26-20.57.47:190][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-20.57.47:216][926]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroFront.fbx)
+[2018.11.26-20.57.47:246][926]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroFront.fbx
+[2018.11.26-20.57.47:257][926]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-20.57.47:690][926]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.26-20.57.47:768][926]LogStaticMesh: Building static mesh metroFront...
+[2018.11.26-20.57.47:773][926]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroFront.metroFront
+[2018.11.26-20.57.47:794][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-20.57.47:821][927]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheels.fbx)
+[2018.11.26-20.57.47:852][927]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheels.fbx
+[2018.11.26-20.57.47:866][927]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-20.57.48:299][927]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.26-20.57.48:782][927]LogStaticMesh: Building static mesh metroWheels...
+[2018.11.26-20.57.48:930][927]LogStaticMesh: Built static mesh [0.15s] /Game/Metro/metroWheels.metroWheels
+[2018.11.26-20.57.48:983][927]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-20.57.49:033][928]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheelsFront.fbx)
+[2018.11.26-20.57.49:061][928]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheelsFront.fbx
+[2018.11.26-20.57.49:073][928]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-20.57.49:575][928]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.26-20.57.49:671][928]LogStaticMesh: Building static mesh metroWheelsFront...
+[2018.11.26-20.57.49:682][928]LogStaticMesh: Built static mesh [0.01s] /Game/Metro/metroWheelsFront.metroWheelsFront
+[2018.11.26-20.57.49:738][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-20.57.49:769][929]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.fbx)
+[2018.11.26-20.57.49:796][929]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.fbx
+[2018.11.26-20.57.49:805][929]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-20.57.50:191][929]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.26-20.57.50:238][929]LogStaticMesh: Building static mesh metroWindow1...
+[2018.11.26-20.57.50:238][929]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroWindow1.metroWindow1
+[2018.11.26-20.57.50:258][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-20.57.50:288][930]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.fbx)
+[2018.11.26-20.57.50:313][930]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.fbx
+[2018.11.26-20.57.50:323][930]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-20.57.50:720][930]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.26-20.57.52:557][930]LogStaticMesh: Building static mesh metroWindow2...
+[2018.11.26-20.57.52:558][930]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroWindow2.metroWindow2
+[2018.11.26-20.57.52:574][930]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-20.57.52:598][931]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.fbx)
+[2018.11.26-20.57.52:628][931]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.fbx
+[2018.11.26-20.57.52:640][931]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-20.57.54:159][931]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.26-20.57.54:208][931]LogStaticMesh: Building static mesh metroWindowFront...
+[2018.11.26-20.57.54:210][931]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroWindowFront.metroWindowFront
+[2018.11.26-20.57.54:230][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-20.57.54:393][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/CabinTexture" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/CabinTexture.uasset" SILENT=true
+[2018.11.26-20.57.55:564][933]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/CabinTextureF1051EE6473CFE8EB9ECF69986A46E0B.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/CabinTexture.uasset'
+[2018.11.26-20.57.56:195][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroCabin" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroCabin.uasset" SILENT=true
+[2018.11.26-20.57.56:234][933]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroCabinE78E57F54EF70B29345C7C989A90A584.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroCabin.uasset'
+[2018.11.26-20.57.56:335][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroConnection" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroConnection.uasset" SILENT=true
+[2018.11.26-20.57.56:361][933]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroConnectionDB24403F485E7F7B0BC946A27F5CB45E.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroConnection.uasset'
+[2018.11.26-20.57.56:421][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroDoor" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.uasset" SILENT=true
+[2018.11.26-20.57.56:447][933]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroDoorA2A05BC24584EB9C218B458F21C93164.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.uasset'
+[2018.11.26-20.57.56:501][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroFront" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroFront.uasset" SILENT=true
+[2018.11.26-20.57.56:570][933]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroFront7B662FBB425F2CF304DC7098EA31DB2D.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroFront.uasset'
+[2018.11.26-20.57.56:628][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWheels" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheels.uasset" SILENT=true
+[2018.11.26-20.57.56:655][933]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWheels477B1F554049EC13A0FB06A511552F9B.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheels.uasset'
+[2018.11.26-20.57.56:705][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWheelsFront" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheelsFront.uasset" SILENT=true
+[2018.11.26-20.57.56:730][933]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWheelsFront49293AFC42D1DCD8F3C4E594708DB49C.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheelsFront.uasset'
+[2018.11.26-20.57.56:788][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWindow1" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.uasset" SILENT=true
+[2018.11.26-20.57.56:813][933]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWindow1A111CFCC4127FC77D846208F62960DFF.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.uasset'
+[2018.11.26-20.57.56:867][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWindow2" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.uasset" SILENT=true
+[2018.11.26-20.57.56:889][933]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWindow25819127143A5F4FBCB2273821E7E9EA0.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.uasset'
+[2018.11.26-20.57.56:940][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWindowFront" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.uasset" SILENT=true
+[2018.11.26-20.57.56:965][933]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWindowFrontBCDD893A499FE4E4F8887C8D6AF36306.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.uasset'
+[2018.11.26-20.57.58:952][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-20.57.59:088][994]LogSlate: Window 'Message Log' being destroyed
+[2018.11.26-20.57.59:092][994]LogSlate: Window 'Message Log' being destroyed
+[2018.11.26-20.58.00:002][ 25]AssetReimport: Importing new asset /Game/Metro/CabinTexture.
+[2018.11.26-20.58.00:002][ 25]AssetReimport: Importing new asset /Game/Metro/metroCabin.
+[2018.11.26-20.58.00:002][ 25]AssetReimport: Importing new asset /Game/Metro/metroConnection.
+[2018.11.26-20.58.00:002][ 25]AssetReimport: Importing new asset /Game/Metro/metroDoor.
+[2018.11.26-20.58.00:002][ 25]AssetReimport: Importing new asset /Game/Metro/metroFront.
+[2018.11.26-20.58.00:002][ 25]AssetReimport: Importing new asset /Game/Metro/metroWheels.
+[2018.11.26-20.58.00:002][ 25]AssetReimport: Importing new asset /Game/Metro/metroWheelsFront.
+[2018.11.26-20.58.00:002][ 25]AssetReimport: Importing new asset /Game/Metro/metroWindow1.
+[2018.11.26-20.58.00:002][ 25]AssetReimport: Importing new asset /Game/Metro/metroWindow2.
+[2018.11.26-20.58.00:002][ 25]AssetReimport: Importing new asset /Game/Metro/metroWindowFront.
+[2018.11.26-20.58.00:091][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-20.58.15:344][270]LogAIModule: Creating AISystem for world Level1
+[2018.11.26-20.58.15:400][270]LogAssetEditorManager: Opening Asset editor for World /Game/Level/Level1.Level1
+[2018.11.26-20.58.17:281][270]LogSlate: Window 'Save Content' being destroyed
+[2018.11.26-20.58.17:336][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/cabinTexture1" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/cabinTexture1.uasset" SILENT=true
+[2018.11.26-20.58.17:374][270]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/cabinTexture1E520B69941498ECC57819E9E00481143.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/cabinTexture1.uasset'
+[2018.11.26-20.58.17:424][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/doorTexture" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/doorTexture.uasset" SILENT=true
+[2018.11.26-20.58.17:447][270]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/doorTextureF11E2DCA4E1AFAB4E67B758F9B443330.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/doorTexture.uasset'
+[2018.11.26-20.58.17:464][270]Cmd: MAP LOAD FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Level/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-20.58.17:465][270]LightingResults: New page: Lighting Build
+[2018.11.26-20.58.17:466][270]LoadErrors: New page: Loading map: Level1.umap
+[2018.11.26-20.58.17:504][270]MapCheck: New page: Map Check
+[2018.11.26-20.58.17:504][270]LightingResults: New page: Lighting Build
+[2018.11.26-20.58.17:635][270]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-20.58.17:706][270]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-20.58.18:367][270]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 660.674ms to complete.
+[2018.11.26-20.58.18:370][270]LogFileHelpers: Loading map 'Level1' took 0.912
+[2018.11.26-20.58.37:765][566]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.26-20.58.43:093][662]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Metro/Metro.Metro
+[2018.11.26-20.58.45:152][662]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.11.26-20.58.47:610][662]LogRenderer: Reallocating scene render targets to support 964x540 Format 26 NumSamples 1 (Frame:1).
+[2018.11.26-21.00.51:991][ 19]LogEditorTransaction: Undo Modify Component(s)
+[2018.11.26-21.00.54:136][ 74]LogSlate: Took 0.025721 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.26-21.00.55:594][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.01.41:567][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.02.18:311][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.02.18:346][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/Metro" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/Metro.uasset" SILENT=true
+[2018.11.26-21.02.18:411][544]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/MetroCB8EF0894F11937F902A01A17DE28BB8.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/Metro.uasset'
+[2018.11.26-21.03.10:154][541]LogEditorTransaction: Undo Modify Component(s)
+[2018.11.26-21.03.10:583][552]LogEditorTransaction: Undo Paste Component(s)
+[2018.11.26-21.03.11:003][563]LogEditorTransaction: Undo Modify Component(s)
+[2018.11.26-21.03.11:487][576]LogEditorTransaction: Undo Modify Component(s)
+[2018.11.26-21.03.14:144][629]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.StaticMesh3_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.StaticMesh3_GEN_VARIABLE
+[2018.11.26-21.03.14:736][640]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.StaticMesh3_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.StaticMesh3_GEN_VARIABLE
+[2018.11.26-21.03.22:876][793]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.metroDoor_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.metroDoor_GEN_VARIABLE
+[2018.11.26-21.03.23:196][799]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.metroDoor_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.metroDoor_GEN_VARIABLE
+[2018.11.26-21.03.28:813][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.03.31:937][963]LogEditorTransaction: Undo Modify Component(s)
+[2018.11.26-21.03.32:458][981]LogEditorTransaction: Undo Modify Component(s)
+[2018.11.26-21.03.39:283][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.04.19:841][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.04.22:677][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.04.29:416][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.04.35:737][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.04.51:953][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.05.28:846][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.05.28:912][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/Metro" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/Metro.uasset" SILENT=true
+[2018.11.26-21.05.28:980][518]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/Metro5889D2704AD946A95EF69AAE74539DCF.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/Metro.uasset'
+[2018.11.26-21.08.06:320][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.08.06:367][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/Metro" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/Metro.uasset" SILENT=true
+[2018.11.26-21.08.06:457][610]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/MetroE7E7C32C45A535E2C7038BA8642052A4.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/Metro.uasset'
+[2018.11.26-21.08.58:295][368]AssetReimport: New page: Outstanding source content changes 5:08:58 PM
+[2018.11.26-21.08.58:329][368]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.fbx]
+[2018.11.26-21.08.58:359][368]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.fbx
+[2018.11.26-21.08.58:371][368]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.08.58:750][368]LogStaticMesh: Building static mesh metroWindow2...
+[2018.11.26-21.08.58:900][368]LogStaticMesh: Built static mesh [0.15s] /Game/Metro/metroWindow2.metroWindow2
+[2018.11.26-21.09.01:441][368]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2018.11.26-21.09.01:517][368]LogEditorFactories: -- imported successfully
+[2018.11.26-21.09.01:631][369]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.fbx]
+[2018.11.26-21.09.01:649][369]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.fbx
+[2018.11.26-21.09.01:660][369]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.09.01:998][369]LogStaticMesh: Building static mesh metroWindow1...
+[2018.11.26-21.09.02:119][369]LogStaticMesh: Built static mesh [0.12s] /Game/Metro/metroWindow1.metroWindow1
+[2018.11.26-21.09.03:580][369]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2018.11.26-21.09.03:586][369]LogEditorFactories: -- imported successfully
+[2018.11.26-21.09.03:640][370]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.fbx]
+[2018.11.26-21.09.03:668][370]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.fbx
+[2018.11.26-21.09.03:700][370]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.09.04:060][370]LogStaticMesh: Building static mesh metroDoor...
+[2018.11.26-21.09.04:212][370]LogStaticMesh: Built static mesh [0.15s] /Game/Metro/metroDoor.metroDoor
+[2018.11.26-21.09.04:802][370]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2018.11.26-21.09.04:805][370]LogEditorFactories: -- imported successfully
+[2018.11.26-21.09.04:877][371]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.fbx]
+[2018.11.26-21.09.04:927][371]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.fbx
+[2018.11.26-21.09.04:955][371]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.09.05:292][371]LogStaticMesh: Building static mesh metroWindowFront...
+[2018.11.26-21.09.05:410][371]LogStaticMesh: Built static mesh [0.12s] /Game/Metro/metroWindowFront.metroWindowFront
+[2018.11.26-21.09.05:822][371]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2018.11.26-21.09.05:829][371]LogEditorFactories: -- imported successfully
+[2018.11.26-21.09.05:978][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWindow2" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.uasset" SILENT=true
+[2018.11.26-21.09.06:037][372]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWindow2CDA0379B4C3C208FD627E0BDC472EAE2.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.uasset'
+[2018.11.26-21.09.06:069][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWindow1" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.uasset" SILENT=true
+[2018.11.26-21.09.06:122][372]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWindow19A575A7F459247F78423618E458FD14B.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.uasset'
+[2018.11.26-21.09.06:164][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroDoor" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.uasset" SILENT=true
+[2018.11.26-21.09.06:226][372]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroDoor6D53819440E38E8D88CA40A4886A990A.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.uasset'
+[2018.11.26-21.09.06:267][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWindowFront" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.uasset" SILENT=true
+[2018.11.26-21.09.06:322][372]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWindowFront2235981045FCD885345CF08A23ECE8D0.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.uasset'
+[2018.11.26-21.09.09:342][433]AssetReimport: Reimported asset metroWindow2 from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.fbx.
+[2018.11.26-21.09.09:342][433]AssetReimport: Reimported asset metroWindow1 from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.fbx.
+[2018.11.26-21.09.09:342][433]AssetReimport: Reimported asset metroDoor from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.fbx.
+[2018.11.26-21.09.09:342][433]AssetReimport: Reimported asset metroWindowFront from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.fbx.
+[2018.11.26-21.09.30:238][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.09.57:477][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Level1' took 0.066
+[2018.11.26-21.09.57:481][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Metro/Metro] ([1] browsable assets)...
+[2018.11.26-21.09.57:481][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Metro/Metro]
+[2018.11.26-21.09.57:481][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/Metro" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/Autosaves/Game/Metro/Metro_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.26-21.09.57:551][492]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/Metro_Auto1ECD6061146BD27CFD336CB8843DFBAD1.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/Autosaves/Game/Metro/Metro_Auto1.uasset'
+[2018.11.26-21.09.57:554][492]LogFileHelpers: Auto-saving content packages took 0.077
+[2018.11.26-21.10.59:890][360]AssetReimport: New page: Outstanding source content changes 5:10:59 PM
+[2018.11.26-21.10.59:893][360]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.fbx]
+[2018.11.26-21.10.59:913][360]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.fbx
+[2018.11.26-21.10.59:919][360]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.10.59:950][360]LogStaticMesh: Building static mesh metroWindowFront...
+[2018.11.26-21.10.59:951][360]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroWindowFront.metroWindowFront
+[2018.11.26-21.10.59:961][360]LogEditorFactories: -- imported successfully
+[2018.11.26-21.10.59:971][360]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.fbx]
+[2018.11.26-21.10.59:990][360]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.fbx
+[2018.11.26-21.10.59:996][360]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.11.00:015][360]LogStaticMesh: Building static mesh metroWindow2...
+[2018.11.26-21.11.00:015][360]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroWindow2.metroWindow2
+[2018.11.26-21.11.00:026][360]LogEditorFactories: -- imported successfully
+[2018.11.26-21.11.00:037][360]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.fbx]
+[2018.11.26-21.11.00:059][360]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.fbx
+[2018.11.26-21.11.00:065][360]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.11.00:077][360]LogStaticMesh: Building static mesh metroWindow1...
+[2018.11.26-21.11.00:077][360]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroWindow1.metroWindow1
+[2018.11.26-21.11.00:086][360]LogEditorFactories: -- imported successfully
+[2018.11.26-21.11.00:212][361]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.fbx]
+[2018.11.26-21.11.00:230][361]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.fbx
+[2018.11.26-21.11.00:237][361]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.11.00:250][361]LogStaticMesh: Building static mesh metroDoor...
+[2018.11.26-21.11.00:250][361]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroDoor.metroDoor
+[2018.11.26-21.11.00:257][361]LogEditorFactories: -- imported successfully
+[2018.11.26-21.11.00:317][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWindowFront" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.uasset" SILENT=true
+[2018.11.26-21.11.00:366][361]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWindowFront18ADC5224265C6B338942FA355C56BE4.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.uasset'
+[2018.11.26-21.11.00:407][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWindow2" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.uasset" SILENT=true
+[2018.11.26-21.11.00:464][361]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWindow274D862744BE8495D19A412B2483E482C.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.uasset'
+[2018.11.26-21.11.00:520][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWindow1" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.uasset" SILENT=true
+[2018.11.26-21.11.00:569][361]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWindow140B4CF0842BD0A1D172964992CF1E827.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.uasset'
+[2018.11.26-21.11.00:618][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroDoor" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.uasset" SILENT=true
+[2018.11.26-21.11.00:726][361]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroDoor589F6FDC4E1986836E8635A058D60E12.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.uasset'
+[2018.11.26-21.11.03:590][433]LogSlate: Window 'Metro*' being destroyed
+[2018.11.26-21.11.03:594][433]LogSlate: Window 'Metro*' being destroyed
+[2018.11.26-21.11.03:897][433]AssetReimport: Reimported asset metroWindowFront from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.fbx.
+[2018.11.26-21.11.03:897][433]AssetReimport: Reimported asset metroWindow2 from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.fbx.
+[2018.11.26-21.11.03:897][433]AssetReimport: Reimported asset metroWindow1 from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.fbx.
+[2018.11.26-21.11.03:897][433]AssetReimport: Reimported asset metroDoor from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.fbx.
+[2018.11.26-21.11.55:165][777]AssetReimport: New page: Outstanding source content changes 5:11:55 PM
+[2018.11.26-21.11.55:180][778]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.fbx)
+[2018.11.26-21.11.55:189][778]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.fbx]
+[2018.11.26-21.11.55:209][778]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.fbx
+[2018.11.26-21.11.55:217][778]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.11.55:223][778]LogStaticMesh: Building static mesh metroWindowFront...
+[2018.11.26-21.11.55:224][778]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroWindowFront.metroWindowFront
+[2018.11.26-21.11.55:234][778]LogEditorFactories: -- imported successfully
+[2018.11.26-21.11.55:278][779]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.fbx)
+[2018.11.26-21.11.55:280][779]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.fbx]
+[2018.11.26-21.11.55:320][779]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.fbx
+[2018.11.26-21.11.55:343][779]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.11.55:347][779]LogStaticMesh: Building static mesh metroWindow2...
+[2018.11.26-21.11.55:348][779]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroWindow2.metroWindow2
+[2018.11.26-21.11.55:355][779]LogEditorFactories: -- imported successfully
+[2018.11.26-21.11.55:501][780]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.fbx)
+[2018.11.26-21.11.55:502][780]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.fbx]
+[2018.11.26-21.11.55:524][780]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.fbx
+[2018.11.26-21.11.55:530][780]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.11.55:534][780]LogStaticMesh: Building static mesh metroWindow1...
+[2018.11.26-21.11.55:535][780]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroWindow1.metroWindow1
+[2018.11.26-21.11.55:542][780]LogEditorFactories: -- imported successfully
+[2018.11.26-21.11.55:604][781]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheelsFront.fbx)
+[2018.11.26-21.11.55:606][781]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheelsFront.fbx]
+[2018.11.26-21.11.55:624][781]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheelsFront.fbx
+[2018.11.26-21.11.55:631][781]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.11.55:670][781]LogStaticMesh: Building static mesh metroWheelsFront...
+[2018.11.26-21.11.55:679][781]LogStaticMesh: Built static mesh [0.01s] /Game/Metro/metroWheelsFront.metroWheelsFront
+[2018.11.26-21.11.55:690][781]LogEditorFactories: -- imported successfully
+[2018.11.26-21.11.55:762][782]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheels.fbx)
+[2018.11.26-21.11.55:764][782]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheels.fbx]
+[2018.11.26-21.11.55:783][782]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheels.fbx
+[2018.11.26-21.11.55:792][782]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.11.56:068][782]LogStaticMesh: Building static mesh metroWheels...
+[2018.11.26-21.11.56:143][782]LogStaticMesh: Built static mesh [0.07s] /Game/Metro/metroWheels.metroWheels
+[2018.11.26-21.11.56:172][782]LogEditorFactories: -- imported successfully
+[2018.11.26-21.11.56:239][783]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroFront.fbx)
+[2018.11.26-21.11.56:241][783]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroFront.fbx]
+[2018.11.26-21.11.56:257][783]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroFront.fbx
+[2018.11.26-21.11.56:263][783]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.11.56:282][783]LogStaticMesh: Building static mesh metroFront...
+[2018.11.26-21.11.56:286][783]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroFront.metroFront
+[2018.11.26-21.11.56:293][783]LogEditorFactories: -- imported successfully
+[2018.11.26-21.11.56:348][784]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.fbx)
+[2018.11.26-21.11.56:350][784]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.fbx]
+[2018.11.26-21.11.56:371][784]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.fbx
+[2018.11.26-21.11.56:377][784]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.11.56:381][784]LogStaticMesh: Building static mesh metroDoor...
+[2018.11.26-21.11.56:382][784]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroDoor.metroDoor
+[2018.11.26-21.11.56:388][784]LogEditorFactories: -- imported successfully
+[2018.11.26-21.11.56:438][785]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroConnection.fbx)
+[2018.11.26-21.11.56:440][785]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroConnection.fbx]
+[2018.11.26-21.11.56:455][785]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroConnection.fbx
+[2018.11.26-21.11.56:460][785]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.11.56:464][785]LogStaticMesh: Building static mesh metroConnection...
+[2018.11.26-21.11.56:464][785]LogStaticMesh: Built static mesh [0.00s] /Game/Metro/metroConnection.metroConnection
+[2018.11.26-21.11.56:469][785]LogEditorFactories: -- imported successfully
+[2018.11.26-21.11.56:526][786]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroCabin.fbx)
+[2018.11.26-21.11.56:529][786]LogEditorFactories: Performing atomic reimport of [C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroCabin.fbx]
+[2018.11.26-21.11.56:550][786]LogFbx: Loading FBX Scene from C:/Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroCabin.fbx
+[2018.11.26-21.11.56:557][786]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-21.11.56:588][786]LogStaticMesh: Building static mesh metroCabin...
+[2018.11.26-21.11.56:606][786]LogStaticMesh: Built static mesh [0.02s] /Game/Metro/metroCabin.metroCabin
+[2018.11.26-21.11.56:614][786]LogEditorFactories: -- imported successfully
+[2018.11.26-21.11.56:765][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWindowFront" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.uasset" SILENT=true
+[2018.11.26-21.11.56:786][787]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWindowFront41E604EC4EA45DB581E4DCAAD28607E1.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindowFront.uasset'
+[2018.11.26-21.11.56:867][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWindow2" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.uasset" SILENT=true
+[2018.11.26-21.11.56:887][787]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWindow2E960C87F42730D38DA03DD9674BDF363.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow2.uasset'
+[2018.11.26-21.11.56:953][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWindow1" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.uasset" SILENT=true
+[2018.11.26-21.11.56:974][787]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWindow1BC4BD445414473CD3AFD9F97C2999A98.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWindow1.uasset'
+[2018.11.26-21.11.57:039][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWheelsFront" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheelsFront.uasset" SILENT=true
+[2018.11.26-21.11.57:060][787]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWheelsFront7BB9A4C14DADEC2CEF0506B252E91894.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheelsFront.uasset'
+[2018.11.26-21.11.57:122][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroWheels" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheels.uasset" SILENT=true
+[2018.11.26-21.11.57:144][787]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroWheels925A70AE4576AEC1633B3DB8778E3A1E.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroWheels.uasset'
+[2018.11.26-21.11.57:213][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroFront" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroFront.uasset" SILENT=true
+[2018.11.26-21.11.57:234][787]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroFrontFEC67EF84CF3AE7F9BC575A4754722CD.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroFront.uasset'
+[2018.11.26-21.11.57:306][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroDoor" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.uasset" SILENT=true
+[2018.11.26-21.11.57:484][787]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroDoorD928ADD143E22B816DFFCE95A2B46A35.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroDoor.uasset'
+[2018.11.26-21.11.57:550][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroConnection" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroConnection.uasset" SILENT=true
+[2018.11.26-21.11.57:569][787]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroConnection10C9F949493B40BDC5FDB2BCD5D0DE35.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroConnection.uasset'
+[2018.11.26-21.11.57:642][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/metroCabin" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroCabin.uasset" SILENT=true
+[2018.11.26-21.11.57:663][787]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/metroCabin6F389A6D432AFD2D9AAC00AA47851C6D.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/metroCabin.uasset'
+[2018.11.26-21.12.00:687][843]AssetReimport: Importing new asset /Game/Metro/metroWindowFront.
+[2018.11.26-21.12.00:687][843]AssetReimport: Importing new asset /Game/Metro/metroWindow2.
+[2018.11.26-21.12.00:687][843]AssetReimport: Importing new asset /Game/Metro/metroWindow1.
+[2018.11.26-21.12.00:687][843]AssetReimport: Importing new asset /Game/Metro/metroWheelsFront.
+[2018.11.26-21.12.00:687][843]AssetReimport: Importing new asset /Game/Metro/metroWheels.
+[2018.11.26-21.12.00:687][843]AssetReimport: Importing new asset /Game/Metro/metroFront.
+[2018.11.26-21.12.00:687][843]AssetReimport: Importing new asset /Game/Metro/metroDoor.
+[2018.11.26-21.12.00:687][843]AssetReimport: Importing new asset /Game/Metro/metroConnection.
+[2018.11.26-21.12.00:687][843]AssetReimport: Importing new asset /Game/Metro/metroCabin.
+[2018.11.26-21.15.08:959][358]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.26-21.15.15:405][447]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.26-21.15.22:423][546]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.26-21.15.28:867][574]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Metro/Metro.Metro
+[2018.11.26-21.15.29:260][574]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.11.26-21.15.34:206][697]LogSlate: Window 'CompilerResults' being destroyed
+[2018.11.26-21.15.34:220][697]LogSlate: Window 'CompilerResults' being destroyed
+[2018.11.26-21.15.35:399][740]LogSlate: Window 'Metro*' being destroyed
+[2018.11.26-21.15.35:410][740]LogSlate: Window 'Metro*' being destroyed
+[2018.11.26-21.15.38:253][772]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.26-21.15.41:435][844]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.26-21.15.45:556][926]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Metro/Metro.Metro
+[2018.11.26-21.18.05:247][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.18.30:585][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.18.32:701][123]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.18.41:016][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.18.43:591][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.18.56:560][587]LogEditorTransaction: Undo Modify Component(s)
+[2018.11.26-21.19.09:169][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.19.14:579][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.19.20:895][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.19.51:347][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.20.06:853][100]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.20.09:620][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.20.10:038][160]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2018.11.26-21.20.11:328][181]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2018.11.26-21.20.38:607][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.21.05:066][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.21.15:979][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.21.32:690][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.21.57:873][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.22.05:956][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.22.17:344][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.22.23:018][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.22.28:264][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.22.34:124][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.23.10:185][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.23.10:222][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/Metro" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/Metro.uasset" SILENT=true
+[2018.11.26-21.23.10:256][303]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/MetroD6721BF3480AF417AAB6598A98425A41.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/Metro.uasset'
+[2018.11.26-21.23.30:333][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.23.38:791][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.23.42:046][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.23.45:286][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.23.51:129][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.23.53:625][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.24.01:138][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.24.07:840][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.24.20:611][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.24.31:960][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.24.37:785][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-21.24.37:825][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Metro/Metro" FILE="../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/Metro.uasset" SILENT=true
+[2018.11.26-21.24.37:900][316]LogSavePackage: Moving '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Saved/Metro667C47A34815EBF4930FF8BE02E8E7C0.tmp' to '../../../../../../Users/11710845/Documents/Unreal Projects/Jogo/Content/Metro/Metro.uasset'
+[2018.11.26-21.24.40:559][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.24.42:835][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-21.24.43:231][412]LogRenderer: Reallocating scene render targets to support 980x540 Format 26 NumSamples 1 (Frame:9706).
+[2018.11.26-21.24.43:447][413]LogRenderer: Reallocating scene render targets to support 1024x540 Format 26 NumSamples 1 (Frame:9708).
+[2018.11.26-21.24.43:690][414]LogRenderer: Reallocating scene render targets to support 1116x540 Format 26 NumSamples 1 (Frame:9710).
+[2018.11.26-21.24.44:522][414]LogD3D11RHI: Warning: CreateShaderResourceView failed, input: ViewDim:6 MSAA:4 Format:47/47 SRGB:0 hRes:887a0005
+[2018.11.26-21.24.44:660][414]LogD3D11RHI: Error: hResCreateShaderResourceView failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Texture.cpp:1281 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.11.26-21.24.44:660][414]LogD3D11RHI: [Aftermath] GDynamicRHI=000002965E6C0180, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2018.11.26-21.24.44:660][414]LogWindows: Windows GetLastError: A operação foi concluída com êxito. (0)
