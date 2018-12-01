@@ -1,0 +1,896 @@
+﻿Log file open, 12/01/18 15:56:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Jogo
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.270135
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.082s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:1]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.01-17.56.18:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.01-17.56.18:655][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.01-17.56.18:656][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.01-17.56.18:656][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.01-17.56.18:656][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.01-17.56.18:656][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.01-17.56.18:656][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.01-17.56.18:656][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.01-17.56.18:656][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.01-17.56.18:663][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.01-17.56.18:663][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.01-17.56.18:664][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.01-17.56.18:664][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.01-17.56.18:664][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.01-17.56.18:669][  0]LogHAL: Display: Platform has ~ 16 GB [17115742208 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.01-17.56.18:669][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.01-17.56.18:669][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.01-17.56.18:669][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.01-17.56.18:670][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.01-17.56.18:670][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.01-17.56.18:670][  0]LogInit: Computer: CHEDDAR-PC
+[2018.12.01-17.56.18:670][  0]LogInit: User: CesarMLW
+[2018.12.01-17.56.18:670][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.01-17.56.18:670][  0]LogInit: High frequency timer resolution =3.914065 MHz
+[2018.12.01-17.56.18:670][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.01-17.56.18:671][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.01-17.56.18:671][  0]LogMemory: Process Physical Memory: 103.32 MB used, 103.32 MB peak
+[2018.12.01-17.56.18:671][  0]LogMemory: Process Virtual Memory: 93.46 MB used, 93.46 MB peak
+[2018.12.01-17.56.18:671][  0]LogMemory: Physical Memory: 8308.94 MB used,  8013.90 MB free, 16322.84 MB total
+[2018.12.01-17.56.18:671][  0]LogMemory: Virtual Memory: 4650.08 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2018.12.01-17.56.18:688][  0]LogInit: Using OS detected language (en-US).
+[2018.12.01-17.56.18:688][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.01-17.56.18:688][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.01-17.56.18:983][  0]LogStreaming: Display: Took  0.295s to InitEngineTextLocalization.
+[2018.12.01-17.56.18:983][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.01-17.56.19:010][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.01-17.56.19:010][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.01-17.56.19:188][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.01-17.56.19:188][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.01-17.56.19:249][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.12.01-17.56.19:249][  0]LogD3D11RHI:       4053/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.01-17.56.19:250][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.01-17.56.19:250][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.01-17.56.19:250][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.01-17.56.19:257][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.01-17.56.19:257][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.01-17.56.19:257][  0]LogWindows: EnumDisplayDevices:
+[2018.12.01-17.56.19:257][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2018.12.01-17.56.19:257][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.12.01-17.56.19:257][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.12.01-17.56.19:258][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.12.01-17.56.19:258][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.01-17.56.19:258][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.12.01-17.56.19:258][  0]LogD3D11RHI:   Driver Version: 417.01 (internal:25.21.14.1701, unified:417.01)
+[2018.12.01-17.56.19:258][  0]LogD3D11RHI:      Driver Date: 11-15-2018
+[2018.12.01-17.56.19:258][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.12.01-17.56.19:292][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.01-17.56.19:393][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.01-17.56.19:770][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.01-17.56.19:786][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.01-17.56.19:797][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.01-17.56.19:808][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.01-17.56.19:820][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.01-17.56.19:831][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.01-17.56.19:843][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.01-17.56.19:854][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.01-17.56.19:860][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-17.56.19:939][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.01-17.56.19:995][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.01-17.56.19:995][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.01-17.56.20:013][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.01-17.56.20:013][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.01-17.56.20:032][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.01-17.56.20:043][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.01-17.56.20:057][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.01-17.56.20:068][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.01-17.56.20:114][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.01-17.56.20:114][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.01-17.56.20:114][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.01-17.56.20:179][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Intermediate/Shaders/WorkingDirectory/10348/).
+[2018.12.01-17.56.20:179][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cesar MLW/AppData/Local/Temp/UnrealShaderWorkingDir/2340B0AA4EDB8231383753B2DB05F380/'.
+[2018.12.01-17.56.20:182][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.01-17.56.20:182][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.01-17.56.20:182][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.01-17.56.20:647][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.01-17.56.20:691][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Cesar MLW/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.01-17.56.20:691][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cesar MLW/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.01-17.56.20:691][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.01-17.56.20:691][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.01-17.56.20:691][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.01-17.56.20:691][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.01-17.56.20:702][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.01-17.56.20:702][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.01-17.56.20:702][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.01-17.56.20:714][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cesar MLW/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.01-17.56.20:714][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.01-17.56.20:714][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.01-17.56.20:747][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.01-17.56.20:748][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.01-17.56.20:748][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.01-17.56.20:825][  0]LogAssetRegistry: FAssetRegistry took 0.0308 seconds to start up
+[2018.12.01-17.56.21:118][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.01-17.56.21:174][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.01-17.56.21:178][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.01-17.56.21:178][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.01-17.56.21:178][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.01-17.56.21:178][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.01-17.56.21:269][  0]LogNetVersion: Jogo 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2831111417)
+[2018.12.01-17.56.21:731][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.065443 seconds
+[2018.12.01-17.56.21:737][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.01-17.56.21:737][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.01-17.56.21:737][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.01-17.56.22:569][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.01-17.56.22:589][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.01-17.56.23:170][  0]SourceControl: Source control is disabled
+[2018.12.01-17.56.23:170][  0]SourceControl: Source control is disabled
+[2018.12.01-17.56.23:172][  0]SourceControl: Source control is disabled
+[2018.12.01-17.56.23:173][  0]SourceControl: Source control is disabled
+[2018.12.01-17.56.23:331][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.01-17.56.23:443][  0]LogOcInput: OculusInput pre-init called
+[2018.12.01-17.56.23:573][  0]LogEngine: Initializing Engine...
+[2018.12.01-17.56.23:594][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.01-17.56.23:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.01-17.56.23:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.01-17.56.23:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.01-17.56.23:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.01-17.56.23:868][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.01-17.56.23:879][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.01-17.56.23:914][  0]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.01-17.56.23:927][  0]LogInit: FAudioDevice initialized.
+[2018.12.01-17.56.23:928][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.01-17.56.23:998][  0]LogDerivedDataCache: Saved boot cache 0.07s 85MB C:/Users/Cesar MLW/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.01-17.56.24:004][  0]LogInit: Texture streaming: Enabled
+[2018.12.01-17.56.24:018][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.01-17.56.24:029][  0]LogInit: Transaction tracking system initialized
+[2018.12.01-17.56.24:052][  0]BlueprintLog: New page: Editor Load
+[2018.12.01-17.56.24:119][  0]LocalizationService: Localization service is disabled
+[2018.12.01-17.56.24:504][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/' took 0.02s
+[2018.12.01-17.56.24:504][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.01-17.56.24:505][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.01-17.56.24:505][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.01-17.56.24:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.01-17.56.24:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.01-17.56.24:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.01-17.56.24:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.01-17.56.24:644][  0]SourceControl: Source control is disabled
+[2018.12.01-17.56.24:676][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.21/FeaturePacks/StarterContent.upack)
+[2018.12.01-17.56.24:685][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.12.01-17.56.24:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.12.01-17.56.24:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.12.01-17.56.24:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.12.01-17.56.24:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.12.01-17.56.24:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.12.01-17.56.24:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.12.01-17.56.24:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.12.01-17.56.24:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.12.01-17.56.24:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.12.01-17.56.24:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.12.01-17.56.24:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.12.01-17.56.24:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.12.01-17.56.24:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.12.01-17.56.24:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.12.01-17.56.24:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.12.01-17.56.24:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.12.01-17.56.24:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.12.01-17.56.24:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Fire01.uasset"
+[2018.12.01-17.56.24:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.12.01-17.56.24:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.12.01-17.56.24:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.12.01-17.56.24:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Light01.uasset"
+[2018.12.01-17.56.24:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.12.01-17.56.24:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Light02.uasset"
+[2018.12.01-17.56.24:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.12.01-17.56.24:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.12.01-17.56.24:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.12.01-17.56.24:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.12.01-17.56.24:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.12.01-17.56.24:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.12.01-17.56.24:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.12.01-17.56.24:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.12.01-17.56.24:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.12.01-17.56.24:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Steam01.uasset"
+[2018.12.01-17.56.24:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.12.01-17.56.24:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.12.01-17.56.24:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.12.01-17.56.24:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.12.01-17.56.24:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.12.01-17.56.24:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.12.01-17.56.24:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.12.01-17.56.24:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.12.01-17.56.24:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.12.01-17.56.24:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.12.01-17.56.24:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.12.01-17.56.24:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.12.01-17.56.24:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.12.01-17.56.24:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.12.01-17.56.24:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.12.01-17.56.24:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.12.01-17.56.24:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.12.01-17.56.25:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.12.01-17.56.25:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.12.01-17.56.25:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.12.01-17.56.25:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.12.01-17.56.25:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.12.01-17.56.25:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Maps/StarterMap.umap"
+[2018.12.01-17.56.25:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.12.01-17.56.25:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.12.01-17.56.25:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.12.01-17.56.25:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.12.01-17.56.25:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.12.01-17.56.25:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.12.01-17.56.25:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.12.01-17.56.25:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.12.01-17.56.25:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.12.01-17.56.25:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.12.01-17.56.25:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.12.01-17.56.25:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.12.01-17.56.25:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.12.01-17.56.25:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.12.01-17.56.25:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.12.01-17.56.25:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.12.01-17.56.25:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.12.01-17.56.25:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.12.01-17.56.25:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.12.01-17.56.25:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.12.01-17.56.25:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.12.01-17.56.25:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.12.01-17.56.25:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.12.01-17.56.25:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.12.01-17.56.25:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.12.01-17.56.25:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.12.01-17.56.25:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.12.01-17.56.25:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.12.01-17.56.25:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.12.01-17.56.25:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.12.01-17.56.25:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.12.01-17.56.25:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.12.01-17.56.25:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.12.01-17.56.25:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.12.01-17.56.25:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.12.01-17.56.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.12.01-17.56.25:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.12.01-17.56.25:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.12.01-17.56.25:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.12.01-17.56.25:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.12.01-17.56.25:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.12.01-17.56.25:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.12.01-17.56.25:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.12.01-17.56.25:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.12.01-17.56.25:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.12.01-17.56.25:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.12.01-17.56.25:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.12.01-17.56.25:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.12.01-17.56.25:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.12.01-17.56.25:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.12.01-17.56.25:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.12.01-17.56.25:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.12.01-17.56.25:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.12.01-17.56.25:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.12.01-17.56.25:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.12.01-17.56.25:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.12.01-17.56.25:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.12.01-17.56.25:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.12.01-17.56.25:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.12.01-17.56.25:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.12.01-17.56.25:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.12.01-17.56.25:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.12.01-17.56.25:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.12.01-17.56.25:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.12.01-17.56.25:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.12.01-17.56.25:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_Door.uasset"
+[2018.12.01-17.56.25:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.12.01-17.56.25:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.12.01-17.56.25:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.12.01-17.56.25:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.12.01-17.56.25:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.12.01-17.56.25:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.12.01-17.56.25:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.12.01-17.56.25:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.12.01-17.56.25:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.12.01-17.56.25:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.12.01-17.56.25:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.12.01-17.56.25:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.12.01-17.56.25:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.12.01-17.56.25:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.12.01-17.56.25:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.12.01-17.56.25:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.12.01-17.56.25:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.12.01-17.56.25:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.12.01-17.56.25:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.12.01-17.56.25:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.12.01-17.56.25:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.12.01-17.56.25:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.12.01-17.56.25:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.12.01-17.56.25:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.12.01-17.56.25:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.12.01-17.56.25:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.12.01-17.56.25:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.12.01-17.56.25:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.12.01-17.56.25:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.12.01-17.56.25:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.12.01-17.56.25:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.12.01-17.56.25:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.12.01-17.56.25:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.12.01-17.56.25:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.12.01-17.56.25:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.12.01-17.56.25:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.12.01-17.56.25:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.12.01-17.56.25:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.12.01-17.56.25:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.12.01-17.56.25:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.12.01-17.56.25:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.12.01-17.56.25:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.12.01-17.56.25:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.12.01-17.56.25:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.12.01-17.56.25:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.12.01-17.56.25:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.12.01-17.56.25:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.12.01-17.56.25:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.12.01-17.56.25:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.12.01-17.56.25:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.12.01-17.56.25:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.12.01-17.56.25:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.12.01-17.56.25:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.12.01-17.56.25:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.12.01-17.56.25:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.12.01-17.56.25:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.12.01-17.56.25:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.12.01-17.56.25:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.12.01-17.56.25:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.12.01-17.56.25:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.12.01-17.56.25:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.12.01-17.56.25:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.12.01-17.56.25:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.12.01-17.56.25:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.12.01-17.56.25:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.12.01-17.56.25:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.12.01-17.56.25:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.12.01-17.56.25:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.12.01-17.56.25:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.12.01-17.56.25:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.12.01-17.56.25:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.12.01-17.56.25:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.12.01-17.56.25:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.12.01-17.56.25:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.12.01-17.56.26:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.12.01-17.56.26:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.12.01-17.56.26:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.12.01-17.56.26:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.12.01-17.56.26:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.12.01-17.56.26:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.12.01-17.56.26:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.12.01-17.56.26:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.12.01-17.56.26:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.12.01-17.56.26:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.12.01-17.56.26:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.12.01-17.56.26:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.12.01-17.56.26:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.12.01-17.56.26:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.12.01-17.56.26:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.12.01-17.56.26:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.12.01-17.56.26:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.12.01-17.56.26:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.12.01-17.56.26:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.12.01-17.56.26:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.12.01-17.56.26:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.12.01-17.56.26:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.12.01-17.56.26:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.12.01-17.56.26:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.12.01-17.56.26:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.12.01-17.56.26:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.12.01-17.56.26:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.12.01-17.56.26:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.12.01-17.56.26:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.12.01-17.56.26:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.12.01-17.56.26:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.12.01-17.56.26:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.12.01-17.56.26:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.12.01-17.56.26:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.12.01-17.56.26:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.12.01-17.56.26:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.12.01-17.56.26:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.12.01-17.56.26:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.12.01-17.56.26:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.12.01-17.56.26:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.12.01-17.56.26:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.12.01-17.56.26:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.12.01-17.56.26:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.12.01-17.56.26:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.12.01-17.56.26:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.12.01-17.56.27:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.12.01-17.56.27:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.12.01-17.56.27:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.12.01-17.56.27:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.12.01-17.56.27:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.12.01-17.56.27:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.12.01-17.56.27:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.12.01-17.56.27:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.12.01-17.56.27:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.12.01-17.56.27:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.12.01-17.56.27:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.12.01-17.56.27:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.12.01-17.56.27:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.12.01-17.56.27:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.12.01-17.56.27:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.12.01-17.56.27:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.12.01-17.56.27:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.12.01-17.56.27:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.12.01-17.56.27:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.12.01-17.56.27:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.12.01-17.56.27:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.12.01-17.56.27:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.12.01-17.56.27:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.12.01-17.56.27:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.12.01-17.56.27:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.12.01-17.56.27:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.12.01-17.56.27:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.12.01-17.56.27:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.12.01-17.56.27:277][  0]LogMaterial: Display: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2018.12.01-17.56.28:286][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.01-17.56.28:286][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.01-17.56.28:286][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.01-17.56.28:286][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.01-17.56.28:329][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2018.12.01-17.56.28:582][  0]LogStaticMesh: Built static mesh [0.30s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.12.01-17.56.29:186][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 26 NumSamples 1 (Frame:1).
+[2018.12.01-17.56.29:316][  0]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Floor_400x40015574F1F4C702AB030A54C8DD98007F9.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.12.01-17.56.29:318][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.12.01-17.56.29:320][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.01-17.56.29:320][  0]LightingResults: New page: Lighting Build
+[2018.12.01-17.56.29:323][  0]MapCheck: New page: Map Check
+[2018.12.01-17.56.29:323][  0]LightingResults: New page: Lighting Build
+[2018.12.01-17.56.29:494][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.12.01-17.56.29:537][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.01-17.56.29:560][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.01-17.56.29:560][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2018.12.01-17.56.29:560][  0]LogFileHelpers: Loading map 'StartupMap' took 0.240
+[2018.12.01-17.56.29:691][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-17.56.29:700][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-17.56.29:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-17.56.29:714][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-17.56.29:721][  0]LogCollectionManager: Loaded 0 collections in 0.001523 seconds
+[2018.12.01-17.56.29:751][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Saved/Collections/' took 0.01s
+[2018.12.01-17.56.29:751][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/Developers/CesarMLW/Collections/' took 0.01s
+[2018.12.01-17.56.29:751][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/Collections/' took 0.00s
+[2018.12.01-17.56.29:751][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.01-17.56.29:761][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2651 classes and 620 folders.
+[2018.12.01-17.56.29:768][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.01-17.56.29:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:809][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:829][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.29:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.01-17.56.30:021][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.01-17.56.30:048][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.01-17.56.30:218][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.01-17.56.30:220][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.01-17.56.30:231][  0]LogSlate: Took 0.003395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.01-17.56.30:321][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2018.12.01-17.56.30:378][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.01-17.56.30:465][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.01-17.56.30:465][  0]LogLoad: (Engine Initialization) Total time: 14.07 seconds
+[2018.12.01-17.56.30:465][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.01-17.56.30:476][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.01-17.56.30:521][  0]LogAssetRegistry: Asset discovery search completed in 9.7168 seconds
+[2018.12.01-17.56.30:523][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.01-17.56.30:524][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000077 seconds (updated 0 objects)
+[2018.12.01-17.56.30:525][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.01-17.56.30:556][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/' took 0.08s
+[2018.12.01-17.56.31:994][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-17.56.48:878][234]Cmd: MAP LOAD FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/Jogo 4.21/Content/Level/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.01-17.56.48:880][234]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.01-17.56.48:887][234]LightingResults: New page: Lighting Build
+[2018.12.01-17.56.48:888][234]LoadErrors: New page: Loading map: Level1.umap
+[2018.12.01-17.56.48:891][234]MapCheck: New page: Map Check
+[2018.12.01-17.56.48:891][234]LightingResults: New page: Lighting Build
+[2018.12.01-17.56.49:135][234]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2018.12.01-17.56.49:136][234]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2018.12.01-17.56.49:136][234]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 2048X2048)
+[2018.12.01-17.56.49:136][234]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2018.12.01-17.56.49:136][234]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2018.12.01-17.56.49:136][234]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.12.01-17.56.49:341][234]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2018.12.01-17.56.49:341][234]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2018.12.01-17.56.49:553][234]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 2048X2048)
+[2018.12.01-17.56.49:553][234]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.12.01-17.56.49:553][234]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X512)
+[2018.12.01-17.56.49:553][234]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2018.12.01-17.56.49:553][234]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2018.12.01-17.56.49:553][234]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2018.12.01-17.56.49:763][234]LogStaticMesh: Building static mesh lanterna...
+[2018.12.01-17.56.49:767][234]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/protoObjects/lanterna.lanterna
+[2018.12.01-17.56.49:796][234]LogMaterial: Display: Missing cached shader map for material lanternaTexture, compiling. 
+[2018.12.01-17.56.49:849][234]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.01-17.56.49:849][234]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.01-17.56.49:849][234]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.01-17.56.49:850][234]LogAIModule: Creating AISystem for world Level1
+[2018.12.01-17.56.49:921][234]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.01-17.56.49:960][234]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.01-17.56.49:961][234]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2018.12.01-17.56.49:961][234]LogFileHelpers: Loading map 'Level1' took 1.084
+[2018.12.01-17.56.49:963][234]LogSlate: Window 'Open Level' being destroyed
+[2018.12.01-17.57.03:912][866]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Props/Blueprints/doorDouble1.doorDouble1
+[2018.12.01-17.57.04:269][866]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2018.12.01-17.57.04:854][866]LogSlate: Took 0.002088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.01-17.57.07:857][216]LogRenderer: Reallocating scene render targets to support 1208x712 Format 26 NumSamples 1 (Frame:1).
