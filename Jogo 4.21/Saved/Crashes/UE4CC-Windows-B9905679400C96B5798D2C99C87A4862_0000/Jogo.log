@@ -1,0 +1,809 @@
+﻿Log file open, 12/03/18 14:51:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Jogo
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.268680
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.102s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:1]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-16.51.58:079][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.03-16.51.58:079][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.03-16.51.58:080][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.03-16.51.58:080][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.03-16.51.58:080][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.03-16.51.58:080][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-16.51.58:080][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-16.51.58:087][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:087][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.03-16.51.58:087][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.03-16.51.58:087][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:087][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.03-16.51.58:087][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:087][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.03-16.51.58:087][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.03-16.51.58:087][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.03-16.51.58:087][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.03-16.51.58:087][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.03-16.51.58:088][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.03-16.51.58:088][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-16.51.58:088][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.03-16.51.58:100][  0]LogHAL: Display: Platform has ~ 16 GB [17115742208 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.03-16.51.58:100][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.03-16.51.58:100][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.03-16.51.58:100][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.03-16.51.58:101][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.03-16.51.58:101][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.03-16.51.58:101][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.03-16.51.58:101][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.03-16.51.58:101][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.03-16.51.58:101][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-16.51.58:101][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.03-16.51.58:101][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.03-16.51.58:101][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.03-16.51.58:101][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.03-16.51.58:101][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-16.51.58:101][  0]LogInit: Computer: CHEDDAR-PC
+[2018.12.03-16.51.58:101][  0]LogInit: User: CesarMLW
+[2018.12.03-16.51.58:101][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.03-16.51.58:101][  0]LogInit: High frequency timer resolution =3.914065 MHz
+[2018.12.03-16.51.58:101][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.03-16.51.58:101][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.03-16.51.58:101][  0]LogMemory: Process Physical Memory: 103.72 MB used, 103.72 MB peak
+[2018.12.03-16.51.58:101][  0]LogMemory: Process Virtual Memory: 92.39 MB used, 92.39 MB peak
+[2018.12.03-16.51.58:101][  0]LogMemory: Physical Memory: 7636.52 MB used,  8686.32 MB free, 16322.84 MB total
+[2018.12.03-16.51.58:101][  0]LogMemory: Virtual Memory: 4649.08 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2018.12.03-16.51.58:118][  0]LogInit: Using OS detected language (en-US).
+[2018.12.03-16.51.58:118][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.03-16.51.58:119][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.03-16.51.58:418][  0]LogStreaming: Display: Took  0.299s to InitEngineTextLocalization.
+[2018.12.03-16.51.58:418][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.03-16.51.58:447][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.03-16.51.58:447][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.03-16.51.58:634][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.03-16.51.58:634][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.03-16.51.58:685][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.12.03-16.51.58:685][  0]LogD3D11RHI:       4053/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.03-16.51.58:687][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.03-16.51.58:687][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.03-16.51.58:687][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.03-16.51.58:695][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.03-16.51.58:695][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.03-16.51.58:695][  0]LogWindows: EnumDisplayDevices:
+[2018.12.03-16.51.58:695][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2018.12.03-16.51.58:695][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.12.03-16.51.58:695][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.12.03-16.51.58:696][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.12.03-16.51.58:696][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.03-16.51.58:696][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.12.03-16.51.58:696][  0]LogD3D11RHI:   Driver Version: 417.01 (internal:25.21.14.1701, unified:417.01)
+[2018.12.03-16.51.58:696][  0]LogD3D11RHI:      Driver Date: 11-15-2018
+[2018.12.03-16.51.58:696][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.12.03-16.51.58:732][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.03-16.51.58:764][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.03-16.51.59:118][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.03-16.51.59:128][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.03-16.51.59:138][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.03-16.51.59:149][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.03-16.51.59:160][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.03-16.51.59:169][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.03-16.51.59:180][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.03-16.51.59:190][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.03-16.51.59:195][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:257][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.51.59:258][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.03-16.51.59:312][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-16.51.59:312][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-16.51.59:330][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-16.51.59:331][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-16.51.59:341][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.03-16.51.59:351][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.03-16.51.59:360][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.03-16.51.59:372][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.03-16.51.59:407][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-16.51.59:407][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-16.51.59:407][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.03-16.51.59:455][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Intermediate/Shaders/WorkingDirectory/16956/).
+[2018.12.03-16.51.59:455][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cesar MLW/AppData/Local/Temp/UnrealShaderWorkingDir/42900BEE4E0AAF11DD4CA08096A48E08/'.
+[2018.12.03-16.51.59:457][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.03-16.51.59:457][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.03-16.51.59:457][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.03-16.51.59:872][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.03-16.51.59:921][  0]LogDerivedDataCache: Loaded boot cache 0.05s 85MB C:/Users/Cesar MLW/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.03-16.51.59:921][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cesar MLW/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.03-16.51.59:921][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.03-16.51.59:921][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.03-16.51.59:921][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-16.51.59:921][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.03-16.51.59:931][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.03-16.51.59:931][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-16.51.59:931][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.03-16.51.59:943][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cesar MLW/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.03-16.51.59:943][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.03-16.51.59:943][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.03-16.51.59:961][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.03-16.51.59:962][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.03-16.51.59:962][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.03-16.52.00:036][  0]LogAssetRegistry: FAssetRegistry took 0.0307 seconds to start up
+[2018.12.03-16.52.00:288][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-16.52.00:404][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.03-16.52.00:407][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.03-16.52.00:407][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.03-16.52.00:407][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.03-16.52.00:407][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.03-16.52.00:417][  0]LogNetVersion: Jogo 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2831111417)
+[2018.12.03-16.52.00:813][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.067822 seconds
+[2018.12.03-16.52.00:819][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.03-16.52.00:819][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.03-16.52.00:819][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.03-16.52.01:512][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.03-16.52.01:525][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.03-16.52.02:099][  0]SourceControl: Source control is disabled
+[2018.12.03-16.52.02:099][  0]SourceControl: Source control is disabled
+[2018.12.03-16.52.02:101][  0]SourceControl: Source control is disabled
+[2018.12.03-16.52.02:102][  0]SourceControl: Source control is disabled
+[2018.12.03-16.52.02:258][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.03-16.52.02:368][  0]LogOcInput: OculusInput pre-init called
+[2018.12.03-16.52.02:491][  0]LogEngine: Initializing Engine...
+[2018.12.03-16.52.02:512][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.03-16.52.02:513][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-16.52.02:513][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-16.52.02:513][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-16.52.02:513][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-16.52.02:697][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.03-16.52.02:711][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.03-16.52.02:745][  0]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-16.52.02:758][  0]LogInit: FAudioDevice initialized.
+[2018.12.03-16.52.02:758][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.03-16.52.02:828][  0]LogDerivedDataCache: Saved boot cache 0.07s 85MB C:/Users/Cesar MLW/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.03-16.52.02:836][  0]LogInit: Texture streaming: Enabled
+[2018.12.03-16.52.02:850][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.03-16.52.02:861][  0]LogInit: Transaction tracking system initialized
+[2018.12.03-16.52.02:879][  0]BlueprintLog: New page: Editor Load
+[2018.12.03-16.52.02:938][  0]LocalizationService: Localization service is disabled
+[2018.12.03-16.52.03:102][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.12.03-16.52.03:102][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.12.03-16.52.03:102][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2018.12.03-16.52.03:322][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/' took 0.02s
+[2018.12.03-16.52.03:322][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.03-16.52.03:322][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.03-16.52.03:322][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.03-16.52.03:322][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-16.52.03:322][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-16.52.03:322][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-16.52.03:322][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-16.52.03:426][  0]SourceControl: Source control is disabled
+[2018.12.03-16.52.03:426][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-16.52.03:428][  0]LightingResults: New page: Lighting Build
+[2018.12.03-16.52.03:430][  0]MapCheck: New page: Map Check
+[2018.12.03-16.52.03:430][  0]LightingResults: New page: Lighting Build
+[2018.12.03-16.52.03:630][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.12.03-16.52.03:637][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-16.52.03:656][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-16.52.03:657][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2018.12.03-16.52.03:657][  0]LogFileHelpers: Loading map 'StartupMap' took 0.231
+[2018.12.03-16.52.03:758][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.52.03:764][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.52.03:769][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.52.03:774][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.52.03:783][  0]LogCollectionManager: Loaded 0 collections in 0.001449 seconds
+[2018.12.03-16.52.03:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Collections/' took 0.01s
+[2018.12.03-16.52.03:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Developers/CesarMLW/Collections/' took 0.00s
+[2018.12.03-16.52.03:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Collections/' took 0.01s
+[2018.12.03-16.52.03:819][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.03-16.52.03:828][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2651 classes and 620 folders.
+[2018.12.03-16.52.03:838][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.03-16.52.03:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:854][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:856][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:858][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:860][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:862][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:864][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:866][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:876][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-16.52.03:972][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.03-16.52.03:984][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.03-16.52.04:024][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.03-16.52.04:026][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.03-16.52.04:034][  0]LogSlate: Took 0.002333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.03-16.52.04:118][  0]LogRenderer: Reallocating scene render targets to support 1208x620 Format 26 NumSamples 1 (Frame:1).
+[2018.12.03-16.52.04:203][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.03-16.52.04:203][  0]LogLoad: (Engine Initialization) Total time: 7.63 seconds
+[2018.12.03-16.52.04:203][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.03-16.52.04:213][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-16.52.04:234][  0]LogAssetRegistry: Asset discovery search completed in 4.2196 seconds
+[2018.12.03-16.52.04:235][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.03-16.52.04:235][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2018.12.03-16.52.04:237][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.03-16.52.04:263][  0]LogSlate: Took 0.002159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-16.52.05:223][107]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-16.52.08:709][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.52.14:247][188]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-16.52.14:441][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-16.52.15:322][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-16.52.16:614][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-16.52.18:463][687]Cmd: MAP LOAD FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Level/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-16.52.18:472][687]LightingResults: New page: Lighting Build
+[2018.12.03-16.52.18:473][687]LoadErrors: New page: Loading map: Level2.umap
+[2018.12.03-16.52.18:477][687]MapCheck: New page: Map Check
+[2018.12.03-16.52.18:477][687]LightingResults: New page: Lighting Build
+[2018.12.03-16.52.19:551][687]LogAIModule: Creating AISystem for world Level2
+[2018.12.03-16.52.19:633][687]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-16.52.19:670][687]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-16.52.19:670][687]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2018.12.03-16.52.19:670][687]LogFileHelpers: Loading map 'Level2' took 1.208
+[2018.12.03-16.52.19:672][687]LogSlate: Window 'Open Level' being destroyed
+[2018.12.03-16.52.30:700][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-16.52.40:039][ 97]Cmd: MAP LOAD FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Level/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-16.52.40:045][ 97]LightingResults: New page: Lighting Build
+[2018.12.03-16.52.40:046][ 97]LoadErrors: New page: Loading map: Level1.umap
+[2018.12.03-16.52.40:048][ 97]MapCheck: New page: Map Check
+[2018.12.03-16.52.40:048][ 97]LightingResults: New page: Lighting Build
+[2018.12.03-16.52.40:415][ 97]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-16.52.40:449][ 97]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-16.52.40:481][ 97]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-16.52.40:481][ 97]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2018.12.03-16.52.40:481][ 97]LogFileHelpers: Loading map 'Level1' took 0.443
+[2018.12.03-16.52.40:482][ 97]LogSlate: Window 'Open Level' being destroyed
+[2018.12.03-16.53.18:265][230]LogEditorViewport: Clicking on Actor (LMB): walkieTalkie_C (walkieTalkie)
+[2018.12.03-16.53.21:228][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.53.21:317][587]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Props/Blueprints/walkieTalkie.walkieTalkie
+[2018.12.03-16.53.21:695][587]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2018.12.03-16.53.22:349][587]LogSlate: Took 0.002273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.03-16.53.22:415][588]LogSlate: Took 0.002302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.03-16.53.25:449][921]LogRenderer: Reallocating scene render targets to support 1208x712 Format 26 NumSamples 1 (Frame:174).
+[2018.12.03-16.53.25:908][976]LogSlate: Window 'walkieTalkie' being destroyed
+[2018.12.03-16.53.33:244][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.53.36:951][293]BlueprintLog: New page: Compile walkieTalkie
+[2018.12.03-16.54.54:851][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.54.57:903][346]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.03-16.55.09:287][704]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Props/Blueprints/Radio_Message_1.Radio_Message_1
+[2018.12.03-16.55.28:510][958]BlueprintLog: New page: Compile Radio_Message_1
+[2018.12.03-16.55.38:720][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.55.47:132][149]LogEditorViewport: Clicking on Actor (LMB): Radio_Message_1_C (Radio_Message_1)
+[2018.12.03-16.55.54:273][998]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-16.56.31:943][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.57.10:865][ 96]LogEditorViewport: Clicking on Actor (LMB): Radio_Message_1_C (Radio_Message_1)
+[2018.12.03-16.57.19:693][142]Cmd: SELECT NONE
+[2018.12.03-16.57.21:470][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-16.57.23:671][613]BlueprintLog: New page: Compile Radio_Message_1
+[2018.12.03-16.59.08:499][270]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-16.59.08:499][270]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-17.01.01:130][169]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Cesar MLW\Downloads\WhatsApp Ptt 2018-12-03 at 15.00.09_09.wav)
+[2018.12.03-17.01.09:015][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Message_1" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sound/Message_1.uasset" SILENT=true
+[2018.12.03-17.01.09:022][904]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Message_1CC817DEF494E37A312DAA2BA52C7433E.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sound/Message_1.uasset'
+[2018.12.03-17.01.20:802][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Initial_Message" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Initial_Message.uasset" SILENT=true
+[2018.12.03-17.01.20:806][276]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Initial_MessageAC3B29DB49C9DE20A110C78697B21177.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Initial_Message.uasset'
+[2018.12.03-17.01.21:009][276]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/walkieTalkieC43E8BE047E4BB982BF7DA86AD4FD02A.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/StarterContent/Props/Blueprints/walkieTalkie.uasset'
+[2018.12.03-17.01.28:826][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Initial_Message" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sound/Initial_Message.uasset" SILENT=true
+[2018.12.03-17.01.28:830][203]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Initial_MessageE498EEE74EE5735E2F9C82A9BCC45838.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sound/Initial_Message.uasset'
+[2018.12.03-17.01.29:027][203]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/walkieTalkie0A708332432D0033E5249C9CCB85290E.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/StarterContent/Props/Blueprints/walkieTalkie.uasset'
+[2018.12.03-17.01.37:361][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sinister_Child" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sinister_Child.uasset" SILENT=true
+[2018.12.03-17.01.37:364][193]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Sinister_Child8CB398D0402C4B9F86FE45ACD24CEECA.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sinister_Child.uasset'
+[2018.12.03-17.01.37:544][193]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Power_Down33B9BA114B3725A4E84D61BABA241F31.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/StarterContent/Props/Blueprints/Power_Down.uasset'
+[2018.12.03-17.01.40:125][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Sinister_Child" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sound/Sinister_Child.uasset" SILENT=true
+[2018.12.03-17.01.40:128][494]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Sinister_Child0E6EB8FE49646CBA14A43C97FB025B49.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sound/Sinister_Child.uasset'
+[2018.12.03-17.01.40:307][494]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Power_Down18124C0D4792893D81730F8BFA9418A7.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/StarterContent/Props/Blueprints/Power_Down.uasset'
+[2018.12.03-17.01.57:623][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Train_Training" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sound/Train_Training.uasset" SILENT=true
+[2018.12.03-17.01.57:627][558]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Train_Training6FF3BB744B0A724C5FC3A58C4FC45905.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sound/Train_Training.uasset'
+[2018.12.03-17.02.10:129][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Dark_Amb" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sound/Dark_Amb.uasset" SILENT=true
+[2018.12.03-17.02.10:134][ 23]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Dark_Amb48D5880A41F6CA6FD40E88B06E812B5E.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sound/Dark_Amb.uasset'
+[2018.12.03-17.02.17:074][637]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.03-17.02.26:674][418]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.03-17.02.34:894][376]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Message_1...
+[2018.12.03-17.02.35:308][376]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 6958080 while cooking SoundWave /Game/Sound/Message_1.Message_1.
+[2018.12.03-17.02.44:863][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-17.02.57:351][978]BlueprintLog: New page: Compile Radio_Message_1
+[2018.12.03-17.03.06:140][996]BlueprintLog: New page: Compile Radio_Message_1
+[2018.12.03-17.03.08:378][236]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-17.03.08:396][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.03.08:396][236]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.03-17.03.08:399][236]LogPlayLevel: [PlayLevel] Compiling Power_Down before play...
+[2018.12.03-17.03.08:501][236]LogPlayLevel: [PlayLevel] Compiling walkieTalkie before play...
+[2018.12.03-17.03.08:640][236]LogPlayLevel: PlayLevel: Blueprint regeneration took 245 ms (2 blueprints)
+[2018.12.03-17.03.08:641][236]PIE: New page: PIE session: Level1 (Dec 3, 2018, 1:03:08 PM)
+[2018.12.03-17.03.08:653][236]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-17.03.08:675][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022175s)
+[2018.12.03-17.03.08:676][236]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-17.03.08:676][236]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2018.12.03-17.03.08:676][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.022963s)
+[2018.12.03-17.03.08:726][236]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-17.03.08:736][236]LogInit: FAudioDevice initialized.
+[2018.12.03-17.03.08:779][236]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-17.03.08:783][236]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-15.03.08
+[2018.12.03-17.03.08:784][236]LogWorld: Bringing up level for play took: 0.004457
+[2018.12.03-17.03.08:804][236]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2018.12.03-17.03.08:806][236]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 0.12
+[2018.12.03-17.03.08:811][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.04.14:898][142]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.04.14:905][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-17.04.14:936][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-17.04.14:936][142]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.04.14:962][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-17.04.15:005][146]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.03-17.04.35:533][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-17.04.49:064][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-17.04.57:905][219]BlueprintLog: New page: Compile walkieTalkie
+[2018.12.03-17.05.42:548][622]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Level1_Auto13AB126214287A2AA9BCC36AF1AC4F423.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Autosaves/Game/Level/Level1_Auto1.umap'
+[2018.12.03-17.05.42:550][622]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Level1' took 0.267
+[2018.12.03-17.05.42:550][622]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.267
+[2018.12.03-17.05.42:552][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/Blueprints/walkieTalkie] ([1] browsable assets)...
+[2018.12.03-17.05.42:568][622]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Props/Blueprints/walkieTalkie.walkieTalkie]
+[2018.12.03-17.05.42:568][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/Blueprints/walkieTalkie]
+[2018.12.03-17.05.42:590][622]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/walkieTalkie_Auto16F0F29E64A72D54696C99F963FDC7398.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Autosaves/Game/StarterContent/Props/Blueprints/walkieTalkie_Auto1.uasset'
+[2018.12.03-17.05.42:591][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Props/Blueprints/Radio_Message_1] ([1] browsable assets)...
+[2018.12.03-17.05.42:591][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/Blueprints/Radio_Message_1]
+[2018.12.03-17.05.42:602][622]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Radio_Message_1_Auto1B85DF45D4A856E6186E03AAD5F2CC2CB.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Autosaves/Game/StarterContent/Props/Blueprints/Radio_Message_1_Auto1.uasset'
+[2018.12.03-17.05.42:603][622]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.12.03-17.05.48:411][141]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Cesar MLW\Downloads\WhatsApp Ptt 2018-12-03 at 15.05.31_31.wav)
+[2018.12.03-17.05.51:161][156]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WhatsApp_Ptt_2018-12-03_at_15_05_31_31...
+[2018.12.03-17.05.51:200][156]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 602880 while cooking SoundWave /Game/Sound/WhatsApp_Ptt_2018-12-03_at_15_05_31_31.WhatsApp_Ptt_2018-12-03_at_15_05_31_31.
+[2018.12.03-17.05.56:777][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Message_0" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sound/Message_0.uasset" SILENT=true
+[2018.12.03-17.05.56:780][817]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Message_0D607995142BD0CA3FC397CB6A819C15D.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Sound/Message_0.uasset'
+[2018.12.03-17.06.20:845][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-17.06.32:159][  4]BlueprintLog: New page: Compile Radio_Message_1
+[2018.12.03-17.06.33:481][146]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-17.06.33:496][146]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.06.33:496][146]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.03-17.06.33:499][146]LogPlayLevel: [PlayLevel] Compiling walkieTalkie before play...
+[2018.12.03-17.06.33:635][146]LogPlayLevel: PlayLevel: Blueprint regeneration took 138 ms (1 blueprints)
+[2018.12.03-17.06.33:635][146]PIE: New page: PIE session: Level1 (Dec 3, 2018, 1:06:33 PM)
+[2018.12.03-17.06.33:635][146]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-17.06.33:658][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022241s)
+[2018.12.03-17.06.33:658][146]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-17.06.33:658][146]LogPlayLevel: PIE: World Init took: (0.000445s)
+[2018.12.03-17.06.33:658][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.022796s)
+[2018.12.03-17.06.33:706][146]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-17.06.33:716][146]LogInit: FAudioDevice initialized.
+[2018.12.03-17.06.33:746][146]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-17.06.33:749][146]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-15.06.33
+[2018.12.03-17.06.33:749][146]LogWorld: Bringing up level for play took: 0.003499
+[2018.12.03-17.06.33:762][146]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 1.076
+[2018.12.03-17.06.33:762][146]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.06.35:654][357]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.06.35:654][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-17.06.35:687][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-17.06.35:688][357]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.06.35:713][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-17.06.35:757][361]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.03-17.06.36:500][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-17.06.41:293][ 20]BlueprintLog: New page: Compile Radio_Message_1
+[2018.12.03-17.06.42:502][145]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-17.06.42:516][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.06.42:516][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-17.06.42:516][145]PIE: New page: PIE session: Level1 (Dec 3, 2018, 1:06:42 PM)
+[2018.12.03-17.06.42:516][145]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-17.06.42:539][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022250s)
+[2018.12.03-17.06.42:539][145]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-17.06.42:539][145]LogPlayLevel: PIE: World Init took: (0.000448s)
+[2018.12.03-17.06.42:539][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.022818s)
+[2018.12.03-17.06.42:585][145]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-17.06.42:594][145]LogInit: FAudioDevice initialized.
+[2018.12.03-17.06.42:625][145]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-17.06.42:629][145]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-15.06.42
+[2018.12.03-17.06.42:629][145]LogWorld: Bringing up level for play took: 0.003527
+[2018.12.03-17.06.42:642][145]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 -0.044
+[2018.12.03-17.06.42:642][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.06.52:671][348]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.06.52:671][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-17.06.52:704][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-17.06.52:704][348]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.06.52:732][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-17.06.52:776][352]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.03-17.06.53:401][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-17.08.19:744][ 72]BlueprintLog: New page: Compile Radio_Message_1
+[2018.12.03-17.08.21:011][204]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-17.08.21:023][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.08.21:023][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-17.08.21:023][204]PIE: New page: PIE session: Level1 (Dec 3, 2018, 1:08:21 PM)
+[2018.12.03-17.08.21:024][204]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-17.08.21:046][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022229s)
+[2018.12.03-17.08.21:046][204]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-17.08.21:046][204]LogPlayLevel: PIE: World Init took: (0.000431s)
+[2018.12.03-17.08.21:046][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.022770s)
+[2018.12.03-17.08.21:098][204]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-17.08.21:109][204]LogInit: FAudioDevice initialized.
+[2018.12.03-17.08.21:137][204]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-17.08.21:141][204]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-15.08.21
+[2018.12.03-17.08.21:141][204]LogWorld: Bringing up level for play took: 0.003378
+[2018.12.03-17.08.21:154][204]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 0.468
+[2018.12.03-17.08.21:154][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.09.19:449][196]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.09.19:450][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-17.09.19:483][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-17.09.19:483][196]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-17.09.19:511][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-17.09.19:553][200]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.03-17.09.20:770][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-17.09.35:570][ 99]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Props/Blueprints/Power_Down.Power_Down
+[2018.12.03-17.09.53:562][196]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.03-17.10.04:232][455]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.03-17.10.04:966][455]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.734 s
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: 
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: Ensure condition failed: !InputKeys.Contains(Key) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\InputCore\Private\InputCoreTypes.cpp] [Line: 718]
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: Adding duplicate key 'UnknownCharCode_-2147483522'
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: Stack: 
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ffe7e9e96e8 UE4Editor-InputCore.dll!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ffe7e9ed5e5 UE4Editor-InputCore.dll!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ffe4edd9b99 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ffe78f4dc35 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ffe78f40de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ffe78f501eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ffe78f3ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ffe9d506d41 USER32.dll!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ffe9d506713 USER32.dll!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ffe78f51746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ff64f895546 UE4Editor.exe!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ff64f8a596c UE4Editor.exe!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ff64f8a59ea UE4Editor.exe!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ff64f8b48da UE4Editor.exe!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ff64f8b659a UE4Editor.exe!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ffe9bf13034 KERNEL32.DLL!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: [Callstack] 0x00007ffe9dda1471 ntdll.dll!UnknownFunction []
+[2018.12.03-17.10.04:966][455]LogOutputDevice: Error: 
+[2018.12.03-17.10.04:972][455]LogStats:                SubmitErrorReport -  0.000 s

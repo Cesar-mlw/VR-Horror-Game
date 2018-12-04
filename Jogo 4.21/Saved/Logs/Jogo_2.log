@@ -1,0 +1,1290 @@
+﻿Log file open, 12/03/18 21:34:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Jogo
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.322047
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.126s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.03-23.34.22:938][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.03-23.34.22:938][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.03-23.34.22:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-23.34.22:938][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.03-23.34.22:938][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2018.12.03-23.34.22:938][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2018.12.03-23.34.22:938][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2018.12.03-23.34.22:938][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2018.12.03-23.34.22:938][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2018.12.03-23.34.22:938][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2018.12.03-23.34.22:938][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:1]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-23.34.22:939][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.03-23.34.22:939][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-23.34.22:939][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-23.34.22:949][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.03-23.34.22:949][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.03-23.34.22:950][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.03-23.34.22:950][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.03-23.34.22:950][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.03-23.34.22:950][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.03-23.34.22:950][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.03-23.34.22:950][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.03-23.34.22:950][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.03-23.34.22:950][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.03-23.34.22:950][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.03-23.34.22:950][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:950][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.03-23.34.22:950][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.03-23.34.22:950][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-23.34.22:950][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.03-23.34.22:964][  0]LogHAL: Display: Platform has ~ 16 GB [17115742208 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.03-23.34.22:965][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.03-23.34.22:965][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.03-23.34.22:965][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.03-23.34.22:966][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.03-23.34.22:966][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.03-23.34.22:967][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.03-23.34.22:967][  0]LogInit: Computer: CHEDDAR-PC
+[2018.12.03-23.34.22:967][  0]LogInit: User: CesarMLW
+[2018.12.03-23.34.22:967][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.03-23.34.22:967][  0]LogInit: High frequency timer resolution =3.914065 MHz
+[2018.12.03-23.34.22:967][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.03-23.34.22:967][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.03-23.34.22:967][  0]LogMemory: Process Physical Memory: 103.24 MB used, 103.24 MB peak
+[2018.12.03-23.34.22:967][  0]LogMemory: Process Virtual Memory: 89.91 MB used, 89.91 MB peak
+[2018.12.03-23.34.22:967][  0]LogMemory: Physical Memory: 10602.08 MB used,  5720.76 MB free, 16322.84 MB total
+[2018.12.03-23.34.22:967][  0]LogMemory: Virtual Memory: 4646.45 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2018.12.03-23.34.23:005][  0]LogInit: Using OS detected language (en-US).
+[2018.12.03-23.34.23:005][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.03-23.34.23:006][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.03-23.34.23:436][  0]LogStreaming: Display: Took  0.431s to InitEngineTextLocalization.
+[2018.12.03-23.34.23:436][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.03-23.34.23:479][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.03-23.34.23:479][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.03-23.34.23:996][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.03-23.34.23:996][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.03-23.34.24:065][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.12.03-23.34.24:065][  0]LogD3D11RHI:       4053/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.03-23.34.24:069][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.03-23.34.24:069][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.03-23.34.24:069][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.03-23.34.24:076][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.03-23.34.24:077][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.03-23.34.24:077][  0]LogWindows: EnumDisplayDevices:
+[2018.12.03-23.34.24:077][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2018.12.03-23.34.24:077][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.12.03-23.34.24:077][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.12.03-23.34.24:078][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.12.03-23.34.24:078][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.03-23.34.24:078][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.12.03-23.34.24:078][  0]LogD3D11RHI:   Driver Version: 417.01 (internal:25.21.14.1701, unified:417.01)
+[2018.12.03-23.34.24:078][  0]LogD3D11RHI:      Driver Date: 11-15-2018
+[2018.12.03-23.34.24:078][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.12.03-23.34.24:112][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.03-23.34.24:137][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.03-23.34.25:064][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.03-23.34.25:076][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.03-23.34.25:087][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.03-23.34.25:099][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.03-23.34.25:111][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.03-23.34.25:125][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.03-23.34.25:141][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.03-23.34.25:155][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.03-23.34.25:163][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.34.25:235][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.03-23.34.25:297][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-23.34.25:297][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-23.34.25:323][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-23.34.25:323][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-23.34.25:336][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.03-23.34.25:348][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.03-23.34.25:362][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.03-23.34.25:380][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.03-23.34.25:429][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-23.34.25:429][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-23.34.25:430][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.03-23.34.25:508][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Intermediate/Shaders/WorkingDirectory/17692/).
+[2018.12.03-23.34.25:508][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cesar MLW/AppData/Local/Temp/UnrealShaderWorkingDir/36A9707442D4FB3FACF00F95C46D69AC/'.
+[2018.12.03-23.34.25:511][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.03-23.34.25:511][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.03-23.34.25:511][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.03-23.34.26:022][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.03-23.34.26:237][  0]LogDerivedDataCache: Loaded boot cache 0.22s 85MB C:/Users/Cesar MLW/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.03-23.34.26:237][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cesar MLW/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.03-23.34.26:237][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.03-23.34.26:237][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.03-23.34.26:237][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-23.34.26:237][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.03-23.34.26:250][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.03-23.34.26:250][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-23.34.26:250][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.03-23.34.26:262][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cesar MLW/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.03-23.34.26:262][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.03-23.34.26:262][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.03-23.34.26:297][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.03-23.34.26:299][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.03-23.34.26:299][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.03-23.34.26:427][  0]LogAssetRegistry: FAssetRegistry took 0.0318 seconds to start up
+[2018.12.03-23.34.26:721][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-23.34.26:788][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.03-23.34.26:795][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.03-23.34.26:795][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.03-23.34.26:795][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.03-23.34.26:795][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.03-23.34.26:892][  0]LogNetVersion: Jogo 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2831111417)
+[2018.12.03-23.34.27:400][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.116486 seconds
+[2018.12.03-23.34.27:406][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.03-23.34.27:406][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.03-23.34.27:406][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.03-23.34.28:892][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.03-23.34.28:906][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.03-23.34.29:604][  0]SourceControl: Source control is disabled
+[2018.12.03-23.34.29:604][  0]SourceControl: Source control is disabled
+[2018.12.03-23.34.29:607][  0]SourceControl: Source control is disabled
+[2018.12.03-23.34.29:609][  0]SourceControl: Source control is disabled
+[2018.12.03-23.34.29:811][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.03-23.34.29:942][  0]LogOcInput: OculusInput pre-init called
+[2018.12.03-23.34.30:088][  0]LogEngine: Initializing Engine...
+[2018.12.03-23.34.30:113][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.03-23.34.30:114][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-23.34.30:114][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-23.34.30:114][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-23.34.30:114][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-23.34.30:403][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.03-23.34.30:420][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.03-23.34.30:457][  0]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-23.34.30:479][  0]LogInit: FAudioDevice initialized.
+[2018.12.03-23.34.30:479][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.03-23.34.30:555][  0]LogDerivedDataCache: Saved boot cache 0.08s 85MB C:/Users/Cesar MLW/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.03-23.34.30:566][  0]LogInit: Texture streaming: Enabled
+[2018.12.03-23.34.30:587][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.03-23.34.30:602][  0]LogInit: Transaction tracking system initialized
+[2018.12.03-23.34.30:634][  0]BlueprintLog: New page: Editor Load
+[2018.12.03-23.34.30:736][  0]LocalizationService: Localization service is disabled
+[2018.12.03-23.34.30:936][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.12.03-23.34.30:937][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.12.03-23.34.30:937][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2018.12.03-23.34.31:188][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/' took 0.02s
+[2018.12.03-23.34.31:188][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.03-23.34.31:188][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.03-23.34.31:188][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.03-23.34.31:188][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-23.34.31:188][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-23.34.31:188][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-23.34.31:188][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-23.34.31:375][  0]SourceControl: Source control is disabled
+[2018.12.03-23.34.31:375][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-23.34.31:378][  0]LightingResults: New page: Lighting Build
+[2018.12.03-23.34.31:381][  0]MapCheck: New page: Map Check
+[2018.12.03-23.34.31:381][  0]LightingResults: New page: Lighting Build
+[2018.12.03-23.34.31:544][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.12.03-23.34.31:550][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-23.34.31:568][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-23.34.31:569][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.217ms to complete.
+[2018.12.03-23.34.31:569][  0]LogFileHelpers: Loading map 'StartupMap' took 0.194
+[2018.12.03-23.34.31:665][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.34.31:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.34.31:677][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.34.31:682][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.34.31:688][  0]LogCollectionManager: Loaded 0 collections in 0.001415 seconds
+[2018.12.03-23.34.31:725][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Collections/' took 0.01s
+[2018.12.03-23.34.31:725][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Developers/CesarMLW/Collections/' took 0.01s
+[2018.12.03-23.34.31:725][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Collections/' took 0.01s
+[2018.12.03-23.34.31:725][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.03-23.34.31:731][  0]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 2651 classes and 620 folders.
+[2018.12.03-23.34.31:738][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.03-23.34.31:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:765][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.03-23.34.31:835][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.03-23.34.31:840][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.03-23.34.31:852][  0]LogSlate: Took 0.000931 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.03-23.34.31:855][  0]LogSlate: Took 0.000833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.03-23.34.31:860][  0]LogSlate: Took 0.000766 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.03-23.34.31:926][  0]LogRenderer: Reallocating scene render targets to support 1208x620 Format 26 NumSamples 1 (Frame:1).
+[2018.12.03-23.34.32:010][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.03-23.34.32:010][  0]LogLoad: (Engine Initialization) Total time: 11.76 seconds
+[2018.12.03-23.34.32:010][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.03-23.34.32:020][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-23.34.32:043][  0]LogAssetRegistry: Asset discovery search completed in 5.6377 seconds
+[2018.12.03-23.34.32:044][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.03-23.34.32:044][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2018.12.03-23.34.32:045][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.03-23.34.32:062][  0]LogSlate: Took 0.000777 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-23.34.38:759][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.34.56:010][411]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel_2, compiling. 
+[2018.12.03-23.34.56:062][411]LogMaterial: Display: Missing cached shader map for material phong1, compiling. 
+[2018.12.03-23.34.56:111][411]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.03-23.34.56:111][411]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.03-23.34.56:111][411]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.03-23.34.56:111][411]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.03-23.34.56:111][411]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.03-23.34.56:179][411]LogMaterial: Display: Missing cached shader map for material M_Chair_2, compiling. 
+[2018.12.03-23.34.56:355][411]LogMaterial: Display: Missing cached shader map for material phong2, compiling. 
+[2018.12.03-23.34.56:459][411]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-23.34.56:470][411]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blue/Metro.Metro
+[2018.12.03-23.34.56:473][411]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.12.03-23.34.57:115][411]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 117 classes and 0 folders.
+[2018.12.03-23.34.58:173][411]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.12.03-23.34.58:259][411]LogSlate: Took 0.001019 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.03-23.34.58:520][412]LogSlate: Took 0.000924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.03-23.34.58:852][422]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.12.03-23.34.59:795][480]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.12.03-23.34.59:946][490]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.12.03-23.35.01:230][576]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.03-23.35.02:585][671]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.03-23.35.03:029][702]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.03-23.35.03:456][736]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.03-23.35.03:479][737]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.03-23.35.05:463][871]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.03-23.35.34:353][672]Cmd: MAP LOAD FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Level/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-23.35.34:361][672]LightingResults: New page: Lighting Build
+[2018.12.03-23.35.34:362][672]LoadErrors: New page: Loading map: Level1.umap
+[2018.12.03-23.35.34:363][672]MapCheck: New page: Map Check
+[2018.12.03-23.35.34:363][672]LightingResults: New page: Lighting Build
+[2018.12.03-23.35.34:461][672]LogBlueprint: Warning: [Compiler mesaMapa] Could not find a variable named "Power" in 'mesaMapa'.
+Make sure 'mesaMapa' has been compiled for  Set Power
+[2018.12.03-23.35.34:461][672]LogBlueprint: Error: [Compiler mesaMapa] In use pin  Metro  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.12.03-23.35.34:461][672]LogBlueprint: Error: [Compiler mesaMapa] In use pin  Metro  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.12.03-23.35.34:461][672]LogBlueprint: Error: [Compiler mesaMapa] Invalid pin connection from ' Out Actors ' to ' Metro '. You may have changed the type after the connections were made.
+[2018.12.03-23.35.34:463][672]LogBlueprint: Error: [Compiler mesaMapa] The current value of the ' Array generated from expanding Get (a copy) ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2018.12.03-23.35.34:463][672]LogBlueprint: Error: [Compiler mesaMapa] The property associated with  Power  could not be found in '/Game/StarterContent/Props/Blueprints/mesaMapa.mesaMapa_C'
+[2018.12.03-23.35.34:463][672]LogBlueprint: Error: [Compiler mesaMapa] Default value '' for  Metro  is invalid: 'Array inputs (like 'Metro') must have an input wired into them (try connecting a MakeArray node).'
+[2018.12.03-23.35.34:464][672]LogBlueprint: Warning: [Compiler mesaMapa] [0074.21] Compile of mesaMapa failed. 6 Fatal Issue(s) 1 Warning(s) [in 7 ms] (/Game/StarterContent/Props/Blueprints/mesaMapa.mesaMapa)
+[2018.12.03-23.35.35:141][672]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-23.35.35:181][672]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-23.35.35:225][672]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-23.35.35:225][672]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2018.12.03-23.35.35:225][672]LogFileHelpers: Loading map 'Level1' took 0.874
+[2018.12.03-23.35.35:228][672]LogSlate: Window 'Open Level' being destroyed
+[2018.12.03-23.37.36:752][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.39.21:560][711]LogSlate: Window 'Metro' being destroyed
+[2018.12.03-23.39.48:468][108]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-23.39.48:468][108]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-23.42.24:565][474]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-23.42.24:590][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.42.24:590][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.42.29:825][474]LogSlate: Window 'Message' being destroyed
+[2018.12.03-23.42.46:515][410]LogEditorViewport: Clicking on Actor (LMB): mesaMapa_C (mesaMapa)
+[2018.12.03-23.42.47:932][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.42.48:004][585]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Props/Blueprints/mesaMapa.mesaMapa
+[2018.12.03-23.42.59:359][887]BlueprintLog: New page: Compile mesaMapa
+[2018.12.03-23.42.59:374][887]LogBlueprint: Error: [Compiler mesaMapa] In use pin  Metro  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.12.03-23.42.59:374][887]LogBlueprint: Error: [Compiler mesaMapa] Invalid pin connection from ' Out Actors ' to ' Metro '. You may have changed the type after the connections were made.
+[2018.12.03-23.42.59:375][887]LogBlueprint: Error: [Compiler mesaMapa] Default value '' for  Metro  is invalid: 'Array inputs (like 'Metro') must have an input wired into them (try connecting a MakeArray node).'
+[2018.12.03-23.42.59:985][887]LogBlueprint: Warning: [Compiler mesaMapa] [0519.73] Compile of mesaMapa failed. 3 Fatal Issue(s) 0 Warning(s) [in 624 ms] (/Game/StarterContent/Props/Blueprints/mesaMapa.mesaMapa)
+[2018.12.03-23.43.06:246][629]BlueprintLog: New page: Compile mesaMapa
+[2018.12.03-23.43.07:486][753]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-23.43.07:496][753]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.43.07:496][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.43.07:497][753]PIE: New page: PIE session: Level1 (Dec 3, 2018, 7:43:07 PM)
+[2018.12.03-23.43.07:509][753]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-23.43.07:547][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037221s)
+[2018.12.03-23.43.07:547][753]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-23.43.07:547][753]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2018.12.03-23.43.07:547][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.038105s)
+[2018.12.03-23.43.07:598][753]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-23.43.07:611][753]LogInit: FAudioDevice initialized.
+[2018.12.03-23.43.07:656][753]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-23.43.07:666][753]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-21.43.07
+[2018.12.03-23.43.07:667][753]LogWorld: Bringing up level for play took: 0.010555
+[2018.12.03-23.43.07:691][753]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2018.12.03-23.43.07:692][753]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 0.721
+[2018.12.03-23.43.07:692][753]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.43.17:590][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.43.17:590][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.43.17:643][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.43.17:643][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.43.17:670][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.43.17:695][940]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.03-23.43.19:213][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.43.23:123][582]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-23.43.23:131][582]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.43.23:131][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.43.23:131][582]PIE: New page: PIE session: Level1 (Dec 3, 2018, 7:43:23 PM)
+[2018.12.03-23.43.23:132][582]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-23.43.23:165][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033396s)
+[2018.12.03-23.43.23:165][582]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-23.43.23:166][582]LogPlayLevel: PIE: World Init took: (0.000440s)
+[2018.12.03-23.43.23:166][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.033952s)
+[2018.12.03-23.43.23:212][582]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-23.43.23:222][582]LogInit: FAudioDevice initialized.
+[2018.12.03-23.43.23:227][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.43.23:264][582]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-23.43.23:274][582]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-21.43.23
+[2018.12.03-23.43.23:275][582]LogWorld: Bringing up level for play took: 0.010706
+[2018.12.03-23.43.23:291][582]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 0.319
+[2018.12.03-23.43.23:291][582]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.43.23:302][582]LogRenderer: Reallocating scene render targets to support 1292x756 Format 26 NumSamples 1 (Frame:1).
+[2018.12.03-23.43.50:661][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.43.50:661][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.43.50:671][560]LogSlate: Window 'Jogo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-23.43.50:718][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.43.50:718][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.43.50:815][561]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.03-23.44.04:026][127]BlueprintLog: New page: Compile Metro
+[2018.12.03-23.44.05:670][245]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-23.44.05:698][245]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.44.05:698][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.44.05:698][245]PIE: New page: PIE session: Level1 (Dec 3, 2018, 7:44:05 PM)
+[2018.12.03-23.44.05:698][245]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-23.44.05:729][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032441s)
+[2018.12.03-23.44.05:730][245]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-23.44.05:730][245]LogPlayLevel: PIE: World Init took: (0.000469s)
+[2018.12.03-23.44.05:730][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.033022s)
+[2018.12.03-23.44.05:786][245]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-23.44.05:799][245]LogInit: FAudioDevice initialized.
+[2018.12.03-23.44.05:826][245]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-23.44.05:836][245]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-21.44.05
+[2018.12.03-23.44.05:838][245]LogWorld: Bringing up level for play took: 0.010642
+[2018.12.03-23.44.05:850][245]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 0.878
+[2018.12.03-23.44.05:850][245]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.44.18:577][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.44.18:577][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.44.18:626][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.44.18:626][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.44.18:653][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.44.18:678][773]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.03-23.44.19:828][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.44.21:936][156]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-23.44.21:944][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.44.21:944][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.44.21:944][156]PIE: New page: PIE session: Level1 (Dec 3, 2018, 7:44:21 PM)
+[2018.12.03-23.44.21:944][156]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-23.44.21:977][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032830s)
+[2018.12.03-23.44.21:977][156]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-23.44.21:977][156]LogPlayLevel: PIE: World Init took: (0.000452s)
+[2018.12.03-23.44.21:977][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.033394s)
+[2018.12.03-23.44.22:025][156]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-23.44.22:035][156]LogInit: FAudioDevice initialized.
+[2018.12.03-23.44.22:040][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.44.22:073][156]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-23.44.22:082][156]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-21.44.22
+[2018.12.03-23.44.22:084][156]LogWorld: Bringing up level for play took: 0.010429
+[2018.12.03-23.44.22:099][156]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 1.127
+[2018.12.03-23.44.22:099][156]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.44.57:918][248]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.44.57:918][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.44.57:929][248]LogSlate: Window 'Jogo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-23.44.57:980][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.44.57:980][248]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.44.58:079][249]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.03-23.45.08:435][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.45.38:104][  6]LogEditorViewport: Clicking on Actor (LMB): Metro_C (Metro)
+[2018.12.03-23.45.47:956][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.46.38:387][724]BlueprintLog: New page: Compile Metro
+[2018.12.03-23.46.41:360][953]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-23.46.41:385][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.46.41:385][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.46.41:386][953]PIE: New page: PIE session: Level1 (Dec 3, 2018, 7:46:41 PM)
+[2018.12.03-23.46.41:386][953]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-23.46.41:420][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033752s)
+[2018.12.03-23.46.41:420][953]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-23.46.41:420][953]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2018.12.03-23.46.41:420][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.034375s)
+[2018.12.03-23.46.41:475][953]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-23.46.41:487][953]LogInit: FAudioDevice initialized.
+[2018.12.03-23.46.41:515][953]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-23.46.41:525][953]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-21.46.41
+[2018.12.03-23.46.41:526][953]LogWorld: Bringing up level for play took: 0.010818
+[2018.12.03-23.46.41:539][953]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 0.568
+[2018.12.03-23.46.41:539][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.46.51:236][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.46.51:237][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.46.51:289][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.46.51:289][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.46.51:314][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.46.51:341][118]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.03-23.46.52:117][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.47.30:128][740]BlueprintLog: New page: Compile Metro
+[2018.12.03-23.47.32:140][897]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-23.47.32:168][897]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.47.32:168][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.47.32:168][897]PIE: New page: PIE session: Level1 (Dec 3, 2018, 7:47:32 PM)
+[2018.12.03-23.47.32:168][897]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-23.47.32:200][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032353s)
+[2018.12.03-23.47.32:201][897]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-23.47.32:201][897]LogPlayLevel: PIE: World Init took: (0.000456s)
+[2018.12.03-23.47.32:201][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.032922s)
+[2018.12.03-23.47.32:259][897]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-23.47.32:270][897]LogInit: FAudioDevice initialized.
+[2018.12.03-23.47.32:300][897]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-23.47.32:310][897]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-21.47.32
+[2018.12.03-23.47.32:311][897]LogWorld: Bringing up level for play took: 0.010618
+[2018.12.03-23.47.32:324][897]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 -0.648
+[2018.12.03-23.47.32:324][897]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.47.35:221][244]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.47.35:222][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.47.35:274][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.47.35:274][244]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.47.35:301][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.47.35:322][245]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.03-23.47.36:047][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.47.37:143][455]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-23.47.37:151][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.47.37:151][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.47.37:151][455]PIE: New page: PIE session: Level1 (Dec 3, 2018, 7:47:37 PM)
+[2018.12.03-23.47.37:151][455]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-23.47.37:184][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032777s)
+[2018.12.03-23.47.37:185][455]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-23.47.37:185][455]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2018.12.03-23.47.37:185][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.033367s)
+[2018.12.03-23.47.37:234][455]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-23.47.37:246][455]LogInit: FAudioDevice initialized.
+[2018.12.03-23.47.37:251][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.47.37:282][455]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-23.47.37:291][455]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-21.47.37
+[2018.12.03-23.47.37:293][455]LogWorld: Bringing up level for play took: 0.010312
+[2018.12.03-23.47.37:308][455]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 0.336
+[2018.12.03-23.47.37:308][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.47.48:300][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.47.48:386][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.47.48:386][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.47.48:398][657]LogSlate: Window 'Jogo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-23.47.48:448][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.47.48:448][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.47.48:489][658]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.03-23.47.51:084][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.47.54:226][331]LogSlate: Window 'Metro*' being destroyed
+[2018.12.03-23.47.56:741][553]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-23.47.56:748][553]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.47.56:748][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.47.56:748][553]PIE: New page: PIE session: Level1 (Dec 3, 2018, 7:47:56 PM)
+[2018.12.03-23.47.56:748][553]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-23.47.56:780][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031988s)
+[2018.12.03-23.47.56:781][553]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-23.47.56:781][553]LogPlayLevel: PIE: World Init took: (0.000448s)
+[2018.12.03-23.47.56:781][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.032548s)
+[2018.12.03-23.47.56:831][553]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-23.47.56:839][553]LogInit: FAudioDevice initialized.
+[2018.12.03-23.47.56:872][553]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-23.47.56:883][553]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-21.47.56
+[2018.12.03-23.47.56:885][553]LogWorld: Bringing up level for play took: 0.011499
+[2018.12.03-23.47.56:897][553]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 -0.074
+[2018.12.03-23.47.56:897][553]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.48.00:256][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.48.00:256][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.48.00:311][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.48.00:311][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.48.00:337][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.48.00:417][890]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.03-23.48.03:156][165]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-23.48.03:165][165]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.48.03:165][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.48.03:165][165]PIE: New page: PIE session: Level1 (Dec 3, 2018, 7:48:03 PM)
+[2018.12.03-23.48.03:165][165]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.03-23.48.03:198][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032574s)
+[2018.12.03-23.48.03:199][165]LogAIModule: Creating AISystem for world Level1
+[2018.12.03-23.48.03:199][165]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2018.12.03-23.48.03:199][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.033236s)
+[2018.12.03-23.48.03:248][165]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.03-23.48.03:261][165]LogInit: FAudioDevice initialized.
+[2018.12.03-23.48.03:265][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.48.03:304][165]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.03-23.48.03:314][165]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-21.48.03
+[2018.12.03-23.48.03:315][165]LogWorld: Bringing up level for play took: 0.010539
+[2018.12.03-23.48.03:333][165]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 0.361
+[2018.12.03-23.48.03:333][165]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.48.07:575][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.48.07:575][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.48.07:585][536]LogSlate: Window 'Jogo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-23.48.07:639][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.48.07:639][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.03-23.48.07:738][537]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.03-23.48.19:032][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.48.20:409][897]LogSlate: Window 'Metro*' being destroyed
+[2018.12.03-23.48.47:023][ 35]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Level1_Auto1088F0D754F1584A52B67099B0E8B3827.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Autosaves/Game/Level/Level1_Auto1.umap'
+[2018.12.03-23.48.47:025][ 35]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Level1' took 0.407
+[2018.12.03-23.48.47:025][ 35]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.407
+[2018.12.03-23.48.47:027][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blue/Metro] ([1] browsable assets)...
+[2018.12.03-23.48.47:043][ 35]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blue/Metro.Metro]
+[2018.12.03-23.48.47:043][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blue/Metro]
+[2018.12.03-23.48.47:043][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blue/Metro" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Autosaves/Game/Blue/Metro_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.12.03-23.48.47:271][ 35]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Metro_Auto103C9DC3042C6C8CC7925ACBC96F25A0F.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Autosaves/Game/Blue/Metro_Auto1.uasset'
+[2018.12.03-23.48.47:272][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/Blueprints/mesaMapa] ([1] browsable assets)...
+[2018.12.03-23.48.47:282][ 35]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Props/Blueprints/mesaMapa.mesaMapa]
+[2018.12.03-23.48.47:282][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/Blueprints/mesaMapa]
+[2018.12.03-23.48.47:319][ 35]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/mesaMapa_Auto14C73A6F7418EA3A2217B5A932C53BC25.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Autosaves/Game/StarterContent/Props/Blueprints/mesaMapa_Auto1.uasset'
+[2018.12.03-23.48.47:320][ 35]LogFileHelpers: Auto-saving content packages took 0.294
+[2018.12.04-00.00.22:096][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-00.00.22:876][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.04-00.00.22:876][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-00.00.22:876][ 18]PIE: New page: SIE session: Level1 (Dec 3, 2018, 8:00:22 PM)
+[2018.12.04-00.00.22:877][ 18]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.04-00.00.22:910][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033102s)
+[2018.12.04-00.00.22:910][ 18]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-00.00.22:910][ 18]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2018.12.04-00.00.22:910][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.033785s)
+[2018.12.04-00.00.22:964][ 18]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.04-00.00.22:975][ 18]LogInit: FAudioDevice initialized.
+[2018.12.04-00.00.22:975][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-00.00.23:006][ 18]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.04-00.00.23:017][ 18]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-22.00.23
+[2018.12.04-00.00.23:018][ 18]LogWorld: Bringing up level for play took: 0.010967
+[2018.12.04-00.00.23:031][ 18]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 0.059
+[2018.12.04-00.00.23:041][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.04-00.00.25:675][326]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.04-00.00.25:675][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-00.00.25:737][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-00.00.25:737][326]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.04-00.00.25:762][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-00.00.25:783][327]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.12.04-00.01.12:547][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-00.01.38:967][544]BlueprintLog: New page: Compile Metro
+[2018.12.04-00.01.41:283][740]LogTemp: Repeating last play command: Simulate
+[2018.12.04-00.01.41:302][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.04-00.01.41:302][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-00.01.41:302][740]PIE: New page: SIE session: Level1 (Dec 3, 2018, 8:01:41 PM)
+[2018.12.04-00.01.41:302][740]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.04-00.01.41:334][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031657s)
+[2018.12.04-00.01.41:335][740]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-00.01.41:335][740]LogPlayLevel: PIE: World Init took: (0.000491s)
+[2018.12.04-00.01.41:335][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.032259s)
+[2018.12.04-00.01.41:394][740]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.04-00.01.41:404][740]LogInit: FAudioDevice initialized.
+[2018.12.04-00.01.41:435][740]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.04-00.01.41:446][740]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-22.01.41
+[2018.12.04-00.01.41:448][740]LogWorld: Bringing up level for play took: 0.012419
+[2018.12.04-00.01.41:460][740]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 0.488
+[2018.12.04-00.01.41:462][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.04-00.01.45:078][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-00.01.45:137][155]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.04-00.01.45:138][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-00.01.45:182][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-00.01.45:182][155]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.04-00.01.45:208][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-00.01.45:239][158]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.12.04-00.01.47:177][390]LogEditorViewport: Clicking on Actor (LMB): Metro_C (Metro)
+[2018.12.04-00.01.54:805][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-00.01.54:880][188]LogTemp: Repeating last play command: Simulate
+[2018.12.04-00.01.54:886][188]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.04-00.01.54:886][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-00.01.54:886][188]PIE: New page: SIE session: Level1 (Dec 3, 2018, 8:01:54 PM)
+[2018.12.04-00.01.54:886][188]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Level1
+[2018.12.04-00.01.54:919][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032171s)
+[2018.12.04-00.01.54:919][188]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-00.01.54:919][188]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2018.12.04-00.01.54:919][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Level1.Level1 to /Game/Level/UEDPIE_0_Level1.Level1 (0.032752s)
+[2018.12.04-00.01.54:983][188]LogInit: XAudio2 using 'Headphones (Astro A50 Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.12.04-00.01.54:994][188]LogInit: FAudioDevice initialized.
+[2018.12.04-00.01.55:026][188]LogLoad: Game class is 'FP_GAME_MODE_C'
+[2018.12.04-00.01.55:035][188]LogWorld: Bringing World /Game/Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.03-22.01.55
+[2018.12.04-00.01.55:037][188]LogWorld: Bringing up level for play took: 0.010424
+[2018.12.04-00.01.55:049][188]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Level1 0.077
+[2018.12.04-00.01.55:058][188]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.04-00.02.02:377][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-00.02.36:091][802]LogEditorViewport: Clicking on Actor (LMB): Metro_C (Metro)
+[2018.12.04-00.02.50:446][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-00.02.50:500][397]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.04-00.02.50:501][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-00.02.50:549][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-00.02.50:549][397]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Level/Level1.Level1_C' with ClassGeneratedBy '/Game/Level/Level1.Level1:PersistentLevel.Level1'
+[2018.12.04-00.02.50:576][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-00.02.50:598][399]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.04-00.03.10:588][865]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.04-00.03.10:588][865]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.04-00.03.33:397][559]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blue/TrainDoor.TrainDoor
+[2018.12.04-00.04.40:233][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blue/Metro" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Blue/Metro.uasset" SILENT=true
+[2018.12.04-00.04.40:469][863]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Metro8F1C14D74FD6FC1924C0E38DE724E09D.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Blue/Metro.uasset'
+[2018.12.04-00.04.41:347][959]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/mesaMapaCEA6BA9D49738DFF9C5C519FB40046C8.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/StarterContent/Props/Blueprints/mesaMapa.uasset'
+[2018.12.04-00.04.43:175][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blue/TrainDoor" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Blue/TrainDoor.uasset" SILENT=true
+[2018.12.04-00.04.43:204][174]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/TrainDoorFFEE260D446F259603D191990AAA8411.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Blue/TrainDoor.uasset'
+[2018.12.04-00.04.44:673][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level1" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Level/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-00.04.45:085][347]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Level131B2B8A24262CE469C343A9D843655D9.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Level/Level1.umap'
+[2018.12.04-00.04.45:102][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level1_BuiltData" FILE="../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Level/Level1_BuiltData.uasset" SILENT=true
+[2018.12.04-00.04.45:665][347]LogSavePackage: Moving '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Saved/Level1_BuiltDataBEFF595743A03C59C994D2B8D2DDB9FA.tmp' to '../../../../../../Users/Cesar MLW/Desktop/Projects/VR-Horror-Game/Jogo 4.21/Content/Level/Level1_BuiltData.uasset'
+[2018.12.04-00.04.46:510][423]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.04-00.04.46:556][423]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.04-00.04.46:600][423]LogSlate: Window 'Jogo - Unreal Editor' being destroyed
+[2018.12.04-00.04.46:764][424]Cmd: QUIT_EDITOR
+[2018.12.04-00.04.47:687][424]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.04-00.04.47:698][424]LogExit: Preparing to exit.
+[2018.12.04-00.04.47:899][424]LogExit: Editor shut down
+[2018.12.04-00.04.47:899][424]LogExit: Transaction tracking system shut down
+[2018.12.04-00.04.48:107][424]LogExit: Object subsystem successfully closed.
+[2018.12.04-00.04.48:119][424]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.04-00.04.48:122][424]LogD3D11RHI: Shutdown
+[2018.12.04-00.04.48:122][424]LogD3D11RHI: CleanupD3DDevice
+[2018.12.04-00.04.48:125][424]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.04-00.04.48:161][424]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2018.12.04-00.04.48:161][424]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2018.12.04-00.04.48:161][424]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2018.12.04-00.04.48:161][424]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2018.12.04-00.04.48:161][424]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2018.12.04-00.04.48:161][424]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2018.12.04-00.04.48:169][424]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2018.12.04-00.04.48:169][424]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2018.12.04-00.04.48:169][424]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2018.12.04-00.04.48:170][424]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2018.12.04-00.04.48:171][424]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.12.04-00.04.48:834][424]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.12.04-00.04.48:835][424]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.12.04-00.04.48:901][424]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.12.04-00.04.48:901][424]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.12.04-00.04.48:901][424]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.12.04-00.04.48:901][424]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.12.04-00.04.48:901][424]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.12.04-00.04.48:901][424]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.12.04-00.04.48:901][424]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.12.04-00.04.48:901][424]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.12.04-00.04.48:901][424]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.12.04-00.04.48:901][424]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.12.04-00.04.48:904][424]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.12.04-00.04.48:904][424]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.12.04-00.04.48:904][424]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.12.04-00.04.48:904][424]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.12.04-00.04.48:904][424]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.12.04-00.04.48:904][424]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.12.04-00.04.48:904][424]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.12.04-00.04.48:904][424]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.12.04-00.04.48:905][424]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2018.12.04-00.04.48:907][424]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.12.04-00.04.49:134][424]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.12.04-00.04.49:137][424]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.12.04-00.04.49:138][424]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.12.04-00.04.49:138][424]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.12.04-00.04.49:138][424]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.04-00.04.49:138][424]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.04-00.04.49:238][424]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.04-00.04.49:339][424]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.04-00.04.49:339][424]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.04-00.04.49:339][424]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.04-00.04.49:339][424]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.04-00.04.49:339][424]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.04-00.04.49:339][424]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.04-00.04.49:339][424]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.04-00.04.49:339][424]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.04-00.04.49:339][424]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.04-00.04.49:339][424]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.04-00.04.49:339][424]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.04-00.04.49:340][424]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.04-00.04.49:340][424]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.04-00.04.49:340][424]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.04-00.04.49:340][424]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.04-00.04.49:340][424]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.04-00.04.49:340][424]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.04-00.04.49:340][424]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.12.04-00.04.49:340][424]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.12.04-00.04.49:341][424]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.12.04-00.04.49:347][424]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.12.04-00.04.49:348][424]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.12.04-00.04.49:349][424]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.12.04-00.04.49:375][424]LogDerivedDataCache: Shutdown
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.12.04-00.04.49:375][424]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.12.04-00.04.49:376][424]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.12.04-00.04.49:376][424]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.12.04-00.04.49:376][424]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.12.04-00.04.49:376][424]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.12.04-00.04.49:376][424]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.12.04-00.04.49:376][424]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.12.04-00.04.49:376][424]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.12.04-00.04.49:377][424]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.12.04-00.04.49:377][424]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.12.04-00.04.49:382][424]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.12.04-00.04.49:382][424]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.12.04-00.04.49:383][424]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.12.04-00.04.49:405][424]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.12.04-00.04.49:405][424]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.04-00.04.49:405][424]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCFB01037-4266-9F86-5EF8-988F94EE47A2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=9303774a425e057ed10300a996067c47%7C3fe4f7f0ccb9470f80432891419f8c3c%7C531eb294-b233-437b-b4cf-f365a686ebfe&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.04-00.04.49:438][424]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.12.04-00.04.49:439][424]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.04-00.04.49:439][424]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.04-00.04.49:440][424]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.04-00.04.49:440][424]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.04-00.04.49:440][424]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.04-00.04.49:440][424]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.04-00.04.49:440][424]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.04-00.04.49:440][424]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.04-00.04.49:440][424]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.04-00.04.49:440][424]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.04-00.04.49:440][424]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.04-00.04.49:440][424]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.04-00.04.49:440][424]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.04-00.04.49:444][424]LogExit: Exiting.
+[2018.12.04-00.04.49:454][424]Log file closed, 12/03/18 22:04:49
